@@ -34,19 +34,21 @@
     font-weight: normal;
     font-style: normal;
 }
-
-h2 {   
+.row{margin:0}
+h2 {
     text-transform: uppercase;
     font-weight: bold;
     font-family: OfficinaSerif_Bold;
 }
 
-body{ overflow-x:hidden}
+body {
+    overflow-x: hidden
+}
 
 .wrapper {
     max-width: 1200px;
     margin: 0 auto;
-    width:100%;
+    width: 100%;
 }
 
 .topo {
@@ -117,7 +119,7 @@ body{ overflow-x:hidden}
     font-size: 19px;
 }
 
-.ligamosParavc a {
+    .ligamosParavc a {
         color: #FFF;
         text-decoration: none
     }
@@ -131,8 +133,14 @@ body{ overflow-x:hidden}
         color: #660099
     }
 
-.flexslider{float:left; width:100%}
-.flex-control-nav{display:none}
+.flexslider {
+    float: left;
+    width: 100%
+}
+
+.flex-control-nav {
+    display: none
+}
 
 .faixa {
     width: 100%;
@@ -151,10 +159,169 @@ body{ overflow-x:hidden}
 
 
 /*Planos*/
-.boxPlanos{ float:left; width:100%}
-.boxPlanos .planos{ float:left}
-    .boxPlanos .planos .boxHeader {
+.planos {
+    float: left;
+    width: 100%
+}
+
+.boxPlanos {
+    float: left;
+   
+    padding: 0.5%;    
+    
+}
+
+    .boxPlanos .backCinza {
         float: left;
         width: 100%;
-        background-color: #ff9900
+        background-color: #f1f1f1;
+        padding-bottom: 20px;
     }
+    
+    .boxPlanos {
+        float: left
+    }
+
+    .boxPlanos .boxHeader {
+        float: left;
+        width: 100%;
+        background-color: #ff9900;
+        padding-bottom: 25px;
+    }
+
+.planos h3 {
+    font: 33px OfficinaSerif_Bold;
+    color: #660099;
+    text-align: center;
+    padding: 47px 0 50px 44px;
+    letter-spacing: -1px;
+    margin-top: 0;
+}
+
+.boxPlanos .boxHeader h4 {
+    font-size: 26px;
+    text-align: center;
+    padding: 16px 0 0 0;
+    letter-spacing: 0px;
+    margin-bottom: 0;
+    color: #fff;
+    font-family: OfficinaSerif_Bold;
+}
+
+    .boxPlanos .boxHeader h4.telefonia {
+        font-size: 20px;
+    }
+
+.boxPlanos .boxHeader span {
+    float: left;
+    width: 100%;
+    text-align: center;
+    font-family: OfficinaSerif_Bold;
+    font-size: 20px;
+    color: #fff;
+}
+
+.boxPlanos .alinhaBotao {
+    float: left;
+    width: 100%;
+    text-align: center
+}
+
+.btn {
+    margin-top: 38px;
+    color: #FFF;
+    display: inline-block;
+    text-align: center;
+    padding: 6px 12px;
+    border-radius: 4px;
+    background-color: #660099;
+    font-family: OfficinaSerif_Bold;
+    height: 41px;
+    font-size: 18px;
+}
+
+    .btn:hover, .btn:focus {
+        background-color: #590284;
+        color: #FFF;
+    }
+
+
+.boxCaixaTV {
+    float: left;
+    width: 100%;
+  
+}
+
+    .boxCaixaTV h3 {
+        float: left;
+        width: 90%;
+        color: #6b6b6b !important;
+        padding: 31px 0 0 0;
+        position: relative;
+        margin: 0 0px;
+        margin-bottom: 20px;
+        margin-left: 5%;
+        font-weight: bold !important;
+    }
+
+        .boxCaixaTV h3 span {
+            padding: 0 20px;
+            text-align: center;
+            font-size: 26px;
+            background: #f1f2f3;
+            position: relative;
+            z-index: 99;
+        }
+
+        .boxCaixaTV h3:after {
+            content: "";
+            border-top: 1px solid #6b6b6b;
+            width: 100%;
+            float: left;
+            left: 0;
+            top: 52px;
+            position: absolute;
+        }
+
+    .boxCaixaTV ul {
+        float:left; 
+        width:100%;
+        list-style:none;
+        padding:0 15px;
+    }
+
+        .boxCaixaTV ul li {
+            float: left;
+            width: 100%;
+            margin: 5px;
+            color: #23282d;
+            font-family: 'OfficinaSerif_Book';
+            font-size:16px;
+        }
+
+        .boxCaixaTV ul li strong {
+            font-size: 20px;
+        }
+
+        .boxCaixaTV ul li img {
+            float: left;
+            margin-right:10px;
+            margin-top:0px;
+        }
+
+    .boxCaixaTV .controle {
+        float: left;
+        width: 100%;
+        background: url(/powercomboV2/img/offers/canais.png) no-repeat left;
+        height: 108px;
+        padding-left: 15px;
+        margin-left: 15px;
+        margin-top: 20px;
+        background-position-y: 3px;
+    }
+
+        .boxCaixaTV .controle li {
+            padding-left: 15px;
+        }
+
+.boxCaixaTelefones ul li span{ float:left; width:80%;}
