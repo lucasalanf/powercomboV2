@@ -46,9 +46,6 @@ RewriteRule ^sao-paulo/vivo-aracatuba$ paginaCidade.php [L]
 RewriteRule ^sao-paulo/vivo-marilia$ paginaCidade.php [L]
 RewriteRule ^sao-paulo/vivo-pindamonhangaba$ paginaCidade.php [L]
 
-
-
-
 RewriteRule ^gvt-santa-barbara-do-oeste/vivo-santa-barbara-do-oeste/$ paginaCidadeFibra.php [L]
 RewriteRule ^sao-paulo/vivo-suzano$ paginaCidadeFibra.php [L]
 RewriteRule ^sao-paulo/vivo-aruja$ paginaCidadeFibra.php [L]
@@ -83,6 +80,11 @@ RewriteRule ^sao-paulo/vivo-indaiatuba$ paginaCidadeFibra.php [L]
 RewriteRule ^sao-paulo/vivo-piracicaba$ paginaCidadeFibra.php [L]
 RewriteRule ^sao-paulo/vivo-bauru$ paginaCidadeFibra.php [L]
 RewriteRule ^sao-paulo/vivo-sorocaba$ paginaCidadeFibra.php [L]
+
+
+RewriteRule ^pacotes-a-la-carte/combate$ paginasStaticas/combate.php [L]
+RewriteRule ^planos-vivo/vivo-internet$ paginasStaticas/vivo-internet.php [L]
+
 
 </IfModule>
 

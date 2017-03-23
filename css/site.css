@@ -597,3 +597,60 @@ b, strong {
     color: #666;
     text-decoration: underline;
 }
+
+blockquote {
+    border-left: 5px solid #23282d !important;
+}
+
+.boxInternet {
+    padding: 0 !important;
+    margin-bottom: 10px;
+    height: 104px;
+}
+
+.boxCanais {
+    float: left;
+    width: 100%;
+    margin: 40px 0;
+    border: 1px solid #f5f5f5;
+    padding: 15px;
+    border-radius: 10px;
+    background: #f5f5f5;
+}
+
+.boxInternet .leftCanais {
+    height: 100%;
+    background: #47007A;
+    text-align: center;
+    vertical-align: middle;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: table;
+}
+.leftCanais {
+    float: left;
+    width: 40%;
+}
+
+.boxInternet .alinhaCentro {
+    vertical-align: middle;
+    color: #FFF;
+    font-size: 39px;
+    display: table-cell;
+}
+
+.boxInternet .rightCanais {
+    padding: 12px 0 0 20px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.rightCanais {
+    float: left;
+    width: 60%;
+    padding-left: 10px;
+}
+
+.boxCanais:hover {
+    border: 1px solid #47007A;
+}
