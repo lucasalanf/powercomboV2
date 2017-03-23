@@ -84,6 +84,13 @@ RewriteRule ^sao-paulo/vivo-sorocaba$ paginaCidadeFibra.php [L]
 
 RewriteRule ^pacotes-a-la-carte/combate$ paginasStaticas/combate.php [L]
 RewriteRule ^planos-vivo/vivo-internet$ paginasStaticas/vivo-internet.php [L]
+RewriteRule ^pacotes-a-la-carte/esportes$ paginasStaticas/esportes.php [L]
+RewriteRule ^pacotes-a-la-carte/hbo-digital-max-hd$ paginasStaticas/hbo-digital-max-hd.php [L]
+RewriteRule ^pacotes-a-la-carte/hbo-digital-hd$ paginasStaticas/hbo-digital-hd.php [L]
+RewriteRule ^pacotes-a-la-carte/internacionais$ paginasStaticas/internacionais.php [L]
+RewriteRule ^pacotes-a-la-carte/sexy-hot$ paginasStaticas/sexy-hot.php [L]
+RewriteRule ^pacotes-a-la-carte/telecine-hd$ paginasStaticas/telecine-hd.php [L]
+RewriteRule ^pacotes-a-la-carte/telecine-light-hd$ paginasStaticas/telecine-light-hd.php [L]
 
 
 </IfModule>

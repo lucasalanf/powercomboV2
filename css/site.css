@@ -654,3 +654,5 @@ blockquote {
 .boxCanais:hover {
     border: 1px solid #47007A;
 }
+
+.formataImg{ float:left}
