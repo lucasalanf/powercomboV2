@@ -32,7 +32,7 @@
     <div class="topo">
         <div class="container">
             <div class="row">
-                <div class="logo col-md-4"><a href="/"><img src="img/vivo-logo.png" alt="Vivo Logo" /></a></div>
+                <div class="logo col-md-4"><a href="/"><img src="/powercomboV2/img/vivo-logo.png" alt="Vivo Logo" /></a></div>
 
                 <div class="fone col-lg-4 col-md-4 col-sm-6">
                     <i class="material-icons">headset_mic</i>
