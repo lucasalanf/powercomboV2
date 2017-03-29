@@ -5,11 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:title" content="Vivo - Assine agora - Internet Fibra, HD TV e Vivo Fixo" />
     <meta charset="utf-8" />
-    <meta name="description" content="Vivo Assine já - Vivo HDTV, Vivo Internet Fibra, Vivo Speedy, Vivo Fixo ou nosso Vivo combo disponível para Ribeirão Preto e região" />    
+   
     <link rel="canonical" href="http://powercombo.com.br/" />
     <meta property="og:site_name" content="Internet Fibra, HD TV e Vivo Fixo" />
 
-    <title>Vivo - Assine agora - Internet Fibra, HD TV e Vivo Fixo teste 2</title>
+   <?php include 'titulosDescricoes.php' ?>
+
+    <title><?=$tituloHeader?></title>
+    <meta name="description" content="<?=$descricao?>"/>
     <script src="/powercomboV2/js/jquery-3.2.0.min.js"></script>
 
      <!-- Latest compiled and minified CSS -->
@@ -27,12 +30,26 @@
     <link rel="stylesheet" href="/powercomboV2/css/remodal-default-theme.css">
    
     <link rel="stylesheet" href="/powercomboV2/css/site.css">
+
+   
 </head>
 <body>
+<?=$end?>
     <div class="topo">
         <div class="container">
             <div class="row">
-                <div class="logo col-md-4"><a href="/"><img src="/powercomboV2/img/vivo-logo.png" alt="Vivo Logo" /></a></div>
+                <div class="logo col-md-4">
+                    <?php if($paginaPrincipal) { ?>
+                        <h1 title="GVT | Vivo Combo com TV, Internet Banda Larga e Telefonia Fixa, GVT Contato">
+                            <a href="/"><img src="/powercomboV2/img/vivo-logo.png" alt="Vivo Logo" /></a>
+                        </h1>
+
+                    <?php } else{ ?>
+
+                        <a href="/"><img src="/powercomboV2/img/vivo-logo.png" alt="Vivo Logo" /></a>
+
+                    <?php } ?>
+                </div>
 
                 <div class="fone col-lg-4 col-md-4 col-sm-6">
                     <i class="material-icons">headset_mic</i>
@@ -65,3 +82,6 @@
             </ul>
         </div>
     </div><!--row-->
+    <?php if(!$paginaPrincipal) { ?>
+    <h1 class="internas"><div class="container"><?=$tituloPagina?></div></h1>
+    <?php } ?>

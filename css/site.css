@@ -656,3 +656,10 @@ blockquote {
 }
 
 .formataImg{ float:left}
+
+
+h1.internas{ float: left; width: 100%; padding: 6px 0;
+    font-size: 2.7em;
+    font-weight: bold;
+    color: #fff;
+    font-family: 'open_sansbold';background-color: #ff9900; padding: 15px 0; text-align: left; margin-top: 0 }

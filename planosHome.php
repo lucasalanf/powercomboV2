@@ -1,8 +1,9 @@
 <div class="row planos">
-        
+        <?php if($paginaPrincipal) { ?>
         <div class="faixa">
             <h2 class="titulo">CONHEÇA OS PLANOS</h2>
         </div>
+        <?php } ?>
         <div class="container">
             <h3>Ofertas de Vivo(TV + Internet + Telefone Fixo)</h3>
 
