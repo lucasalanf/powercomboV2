@@ -53,14 +53,14 @@
                     <?php } ?>
                 </div>
 
-                <div class="fone col-lg-4 col-md-4 col-sm-6">
+                <div class="fone col-lg-5 col-md-5 col-sm-6">
                     <i class="material-icons">headset_mic</i>
                     <div class="right">
                         <span>Assine já:</span><b class="addEventoTelefone"> 0800 941 7121</b>
                     </div>
                 </div>
 
-                <div class="pacotesVivo col-lg-4 col-md-4 col-sm-6">
+                <div class="pacotesVivo col-lg-3 col-md-3 col-sm-6">
                     <div class="controlaLarguraMin">
                         <span class="ligamosParavc"><a href="#ligamosParaVoce">Ligamos Para <br>Você</a></span>
                     </div>

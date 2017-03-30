@@ -96,7 +96,7 @@ body {
 }
 
 .controlaLarguraMin {
-    width: 50%;
+    width: 80%;
     background: #660099;
     height: 78px;
     float: right;
@@ -263,6 +263,7 @@ body {
         margin-bottom: 20px;
         margin-left: 5%;
         font-weight: bold !important;
+        text-align: center;
     }
 
         .boxCaixaTV h3 span {
@@ -759,4 +760,24 @@ h1.internas{ float: left; width: 100%; padding: 6px 0;
     letter-spacing: -1px;
     margin: 0 0 12px 0;
     font-family: OfficinaSerif_Bold;
+}
+
+
+@media (max-width: 992px){
+
+    .topo .logo{ width: 100%; text-align:center; }
+    .topo .fone i{ display: none }
+    .topo .fone{ width: 100%; text-align: center; }
+    .fone .right{ width: 100%; text-align: center;  margin-right: 0; margin-left: 0}
+    .pacotesVivo { width: 100%;text-align: center; }
+    .controlaLarguraMin{ display: inline-block; float: initial; margin-right: 0 }
+
+
+    .consultarCobertura{ width: 100%; text-align: center; }
+    .formulario{ width: 100% }
+    .formulario input{ width: 100%!important; margin-bottom: 10px }
+}
+@media (max-width: 500px){
+
+.btnTelefoneLigamos{ display: none!important }
 }
