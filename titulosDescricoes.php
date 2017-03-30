@@ -3,8 +3,8 @@
        // $url = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
         $url = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
         $explode = explode('/', $url);
-        $end = end($explode);
-
+        $end = count($explode);
+        $end =  $explode[$end - 2];
         $paginaPrincipal = false;
 
         if($end == "index.php"){
