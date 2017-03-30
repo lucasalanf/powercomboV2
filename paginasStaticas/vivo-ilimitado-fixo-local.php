@@ -10,7 +10,7 @@
 </blockquote>
 
 
-<p><img class="alignnone wp-image-1297" src="http://powercombo.com.br/wp-content/uploads/2016/08/vivo-fixo-ilimitado-local.jpg" alt="vivo fixo ilimitado local" width="589" height="324" /></p>
+<p><img class="alignnone wp-image-1297" src="/img/upload/vivo-fixo-ilimitado-local.jpg" alt="vivo fixo ilimitado local" width="589" height="324" /></p>
 
 <p><strong>Mas, por quê?</strong></p>
 

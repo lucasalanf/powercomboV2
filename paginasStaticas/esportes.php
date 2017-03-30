@@ -9,7 +9,7 @@
 <p><strong>A Vivo oferece isso para você de uma forma que você não precise ter um pacote mínimo para conseguir acompanhar o seu time de coração e até o seu rival em todos os jogos do campeonato brasileiro.</strong></p></blockquote>
 <!--more-->
 
-<p><img src="http://powercombo.com.br/wp-content/uploads/2016/07/vivo-pacote-esporte-300x200.png" alt="vivo-pacote-esporte" width="672" height="448" /></p>
+<p><img src="/img/upload/vivo-pacote-esporte.png" alt="vivo-pacote-esporte" width="672" height="448" /></p>
 
 <p><strong>E o que isso quer dizer?</strong></p>
 

@@ -4,7 +4,7 @@
 <div class="container">
 
 
-<p><a href="http://powercombo.com.br/telefone/#modal"><img class="alignnone size-full wp-image-2779" src="http://powercombo.com.br/wp-content/uploads/2017/01/telefone.jpg" alt=""  style="width: 100%; height: auto" /></a></p>
+<p><a href="http://powercombo.com.br/telefone/#modal"><img class="alignnone size-full wp-image-2779" src="/img/upload/telefone.jpg" alt=""  style="width: 100%; height: auto" /></a></p>
 
 
 

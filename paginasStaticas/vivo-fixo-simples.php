@@ -7,7 +7,7 @@
 <p>Para quem ainda não consegue, o fixo simples é conhecido por um serviço de longa distância da Vivo, pois com ele você pode falar, do seu telefone fixo, com qualquer aparelho móvel e/ou fixo do Brasil ou do mundo, pagando bem pouco na tarifa.</p>
 </blockquote>
 
-<p><img class="alignnone wp-image-1292" src="http://powercombo.com.br/wp-content/uploads/2016/08/vivo-fixo-simples.jpg" alt="vivo-fixo-simples" width="593" height="433" /></p>
+<p><img class="alignnone wp-image-1292" src="/img/upload/vivo-fixo-simples.jpg" alt="vivo-fixo-simples" width="593" height="433" /></p>
 
 <p>Além do valor extremamente acessível, o <strong>pacote vivo fixo simples</strong> é liberado para qualquer tipo de ligação, sem limitações, você paga e aproveita o melhor do serviço.</p>
 

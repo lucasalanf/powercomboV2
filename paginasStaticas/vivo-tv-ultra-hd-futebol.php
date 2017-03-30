@@ -6,7 +6,7 @@
 <p>Com um combo 3 em 1 do Ultra HD Futebol, você pode ter acesso a uma quantidade maior de canais, maior do que o econômico, aumentando ainda mais a sua variedade para assistir um bom futebol, com uma ótima imagem.</p>
 </blockquote>
 
-<p><img class="alignnone wp-image-1188" src="http://powercombo.com.br/wp-content/uploads/2016/08/Vivo-TV-Ultra-HD-Futebol-1.jpg" alt="Vivo TV Ultra HD Futebol" width="586" height="385" /></p>
+<p><img class="alignnone wp-image-1188" src="/img/upload/Vivo-TV-Ultra-HD-Futebol-1.jpg" alt="Vivo TV Ultra HD Futebol" width="586" height="385" /></p>
 
 <p>Não é a toa que é ultra, esse combo é muito bom e você verá agora o porque.</p>
 

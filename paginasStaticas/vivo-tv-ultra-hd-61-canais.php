@@ -8,7 +8,7 @@
 <p><strong>Com esse pacote não tem mais bagunça, os pequenos ficarão vidrados e concentrados em aproveitar os diversos canais infantis que disponibilizam mais de 16 horas de desenhos animados e até educativos.</strong></p>
 </blockquote>
 
-<p><img class="alignnone wp-image-1169" src="http://powercombo.com.br/wp-content/uploads/2016/08/Vivo-TV-Ultra-HD-61-CANAIS.jpg" alt="Vivo TV Ultra HD 61 CANAIS" width="591" height="325" /></p>
+<p><img class="alignnone wp-image-1169" src="/img/upload/Vivo-TV-Ultra-HD-61-CANAIS.jpg" alt="Vivo TV Ultra HD 61 CANAIS" width="591" height="325" /></p>
 
 <p>Além dos <strong>canais infantis</strong>, a Ultra também oferece cinco (5) canais de <strong>esportes em HD</strong>, como: <strong>ESPN HD</strong> e <strong>FOX Sports HD</strong> que são dois dos canais inclusos.</p>
 

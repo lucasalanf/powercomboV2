@@ -5,7 +5,7 @@
 <p><span style="font-size: 12.0pt; line-height: 115%;">Os canais <strong>A La Carte são</strong> “produtos” contratados e pagos adicionalmente à programação principal, ou seja, você possui um pacote e se quiser o canal Combate, em especial, para variar sua atual programação e conseguir curtir programas em HD, você contrata somente esse canal, de modo avulso, sem precisar aumentar ou mudar de pacote principal.</span></p>
 </blockquote>
 
-<p><img class="alignnone wp-image-1125" src="http://powercombo.com.br/wp-content/uploads/2016/08/combate-300x188.jpg" alt="combate" width="586" height="367" /></p>
+<p><img class="alignnone wp-image-1125" src="/img/upload/combate.jpg" alt="combate" width="586" height="367" /></p>
 <p><strong>Isso não é incrível?</strong></p>
 
 <p>Sabia que contratando o canal <strong>Combate</strong> você tem a maior cobertura dos melhores e maiores eventos de lutas nacionais e internacionais?</p>

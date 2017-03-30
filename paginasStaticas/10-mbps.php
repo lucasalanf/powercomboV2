@@ -5,7 +5,7 @@
 <blockquote><p>Para quem quer internet rápida, de qualidade e gastando bem pouco no mês, atualmente, a Vivo Banda Larga (Speedy) com linha telefônica oferece quatro opções para você conseguir economizar sem perder um bom serviço.</p></blockquote>
 
 
-<p><img class="alignnone wp-image-1116" src="http://powercombo.com.br/wp-content/uploads/2016/08/Vivo-internet-Speedy-10-Mbps.jpg" alt="Vivo internet Speedy 10 Mbps" width="576" height="307" /></p>
+<p><img class="alignnone wp-image-1116" src="/img/upload/Vivo-internet-Speedy-10-Mbps.jpg" alt="Vivo internet Speedy 10 Mbps" width="576" height="307" /></p>
 
 <p>Mas antes você precisa saber de dois detalhes importantes:</p>
 <ul>

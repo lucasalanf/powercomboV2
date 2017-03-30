@@ -7,7 +7,7 @@
 
 </blockquote>
 
-<p><img class="alignnone wp-image-1304" src="http://powercombo.com.br/wp-content/uploads/2016/08/Ilimitado-Fixo-Movel-Brasil.jpg" alt="Ilimitado Fixo Movel Brasil" width="596" height="328" /></p>
+<p><img class="alignnone wp-image-1304" src="/img/upload/Ilimitado-Fixo-Movel-Brasil.jpg" alt="Ilimitado Fixo Movel Brasil" width="596" height="328" /></p>
 
 <p>Parece um sonho, não é verdade?</p>
 

@@ -7,7 +7,7 @@
 <p><strong>Os 200 Mbps Vivo Fibra foi uma promessa feita pela empresa e que era muito esperada por todos os fanáticos por velocidade em rede e eu tenho a felicidade em dizer que ela não decepcionou os que estavam esperando por uma conexão super rápida, seja para download, seja para upload.</strong></p></blockquote>
 
 
-<p><img class="alignnone wp-image-969" src="http://powercombo.com.br/wp-content/uploads/2016/07/vivo-speedy-06.png" alt="vivo-speedy-06," width="780" height="437" /></p>
+<p><img class="alignnone wp-image-969" src="/img/upload/vivo-speedy-06.png" alt="vivo-speedy-06," width="780" height="437" /></p>
 
 <p>Não acredite no que estou dizendo, acredite nos números e eles são realmente impressionantes:</p>
 

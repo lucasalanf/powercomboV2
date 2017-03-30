@@ -9,7 +9,7 @@
 <p><strong>Então está na hora de experimentar a 50 Mbps Vivo internet, pois pode confiar, com ela, essa sensação deixará de ser uma exceção e virará uma regra de tão boa que será a experiência.</strong></p></blockquote>
 
 
-<p><img class="alignnone wp-image-959" src="http://powercombo.com.br/wp-content/uploads/2016/07/vivo-speedy-04.png" alt="vivo-speedy-04," width="733" height="486" /></p>
+<p><img class="alignnone wp-image-959" src="/img/upload/vivo-speedy-04.png" alt="vivo-speedy-04," width="733" height="486" /></p>
 
 <p>Se tivesse que dar um apelido ou algo do tipo falaria que é como internet de mãe, sempre cabe mais um, tamanho é o espaço fornecido pela vivo, mensalmente, para que você e toda a sua família possam navegar tranquilamente e sem se preocupar com o amanhã.</p>
 

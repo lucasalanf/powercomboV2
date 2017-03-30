@@ -9,7 +9,7 @@
 <strong><p>Nesse conteúdo terão todos os 10 canais premium, sendo 6 em HD, tudo isso para que você tenha a HBO completa na sua casa e ainda tenha a ótima resolução para não perder nenhum detalhe durante a programação.</p></strong></blockquote>
 
 
-<p><img class="alignnone wp-image-1120" src="http://powercombo.com.br/wp-content/uploads/2016/08/HBO-Digital-MAX-HD-300x167.jpg" alt="HBO Digital MAX HD" width="589" height="328" /></p>
+<p><img class="alignnone wp-image-1120" src="/img/upload/HBO-Digital-MAX-HD.jpg" alt="HBO Digital MAX HD" width="589" height="328" /></p>
 
 <p>Quais serão os canais disponíveis no conteúdo à la carte HBO Digital MAX HD?</p>
 

@@ -9,7 +9,7 @@
 <strong><p>A Vivo oferece isso para você por meio do pacote a la carte Internacional e as vantagens não param por aí, pois você não vai ficar só por dentro das notícias, conseguirá também se preparar para alguma futura viagem, conhecendo a cultura, o idioma e até o sotaque.</p></strong></blockquote>
 
 
-<p><img class="alignnone wp-image-990" src="http://powercombo.com.br/wp-content/uploads/2016/07/vivo-pacote-internacionais-300x197.png" alt="vivo-pacote-internacionais" width="544" height="357" /></p>
+<p><img class="alignnone wp-image-990" src="/img/upload/vivo-pacote-internacionais.png" alt="vivo-pacote-internacionais" width="544" height="357" /></p>
 
 <p>Até porquê quanto mais acostumado aos costumes da região em que vai viajar você estiver, melhor será a sua experiência lá.</p>
 

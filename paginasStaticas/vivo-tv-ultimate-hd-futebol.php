@@ -7,7 +7,7 @@
 <p>Se você não quer perder a partida do seu time nem quando alguém está usando a sala para assistir novela, então, o Ultimate HD Futebol é o plano para você.</p>
 </blockquote>
 
-<p><img class="alignnone wp-image-1192" src="http://powercombo.com.br/wp-content/uploads/2016/08/Vivo-TV-Ultimate-HD-Futebol-.jpg" alt="Vivo TV Ultimate HD Futebol" width="588" height="288" /></p>
+<p><img class="alignnone wp-image-1192" src="/img/upload/Vivo-TV-Ultimate-HD-Futebol-.jpg" alt="Vivo TV Ultimate HD Futebol" width="588" height="288" /></p>
 <p>Com um ponto gratuito para você colocar em qualquer outro lugar, você pode colocar na televisão do quarto para conseguir torcer para o seu time no conforto da sua cama.</p>
 
 <p>Mas um combo 3 em 1 tão bom não poderia se resumir só a isso, não é?</p>

@@ -9,7 +9,7 @@
 <strong><p>Essa rede é a responsável por trazer, em primeiro lugar, os maiores sucessos e até os que não fizeram tanto sucesso assim, para a sua casa.</p></strong></blockquote>
 
 
-<p><img class="alignnone wp-image-996" src="http://powercombo.com.br/wp-content/uploads/2016/07/vivo-pacote-telecine-HD.png" alt="vivo-pacote-telecine-HD" width="631" height="381" /></p>
+<p><img class="alignnone wp-image-996" src="/img/upload/vivo-pacote-telecine-HD.png" alt="vivo-pacote-telecine-HD" width="631" height="381" /></p>
 
 <p>Portanto, se você curte assistir os últimos lançamentos, tenha certeza que não será um erro contratar esse <strong>pacote à la carte</strong>.</p>
 

@@ -6,7 +6,7 @@
 <blockquote><p>Vamos supor que você só utilize a internet para ficar por dentro das notícias, olhar as redes sociais, e dentre outras coisas consideradas básicas, você vai precisar de uma internet muito rápida?</p></blockquote>
 
 
-<p><img class="alignnone wp-image-926" src="http://powercombo.com.br/wp-content/uploads/2016/07/vivo-speedy-01.png" alt="vivo-speedy-01" width="569" height="404" /></p>
+<p><img class="alignnone wp-image-926" src="/img/upload/vivo-speedy-01.png" alt="vivo-speedy-01" width="569" height="404" /></p>
 
 <p>Tudo bem, que ninguém merece e ninguém quer ficar esperando pelo carregamento de um site que parece ser tão leve, mas também não são todos que querem pagar tão caro por um serviço que já é considerado essencial para o homem.</p>
 

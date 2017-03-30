@@ -6,7 +6,7 @@
 <blockquote><p>E se você pudesse ter duas coisas essenciais, mas com um preço tão pequeno, tão pequeno que talvez nem sequer faça diferença no seu bolso, você acreditaria?,/</blockquote>
 
 
-<p><img class="alignnone wp-image-1301" src="http://powercombo.com.br/wp-content/uploads/2016/08/Ilimitado-Fixo-Movel-Local.jpg" alt="Ilimitado Fixo Movel Local" width="587" height="307" /></p>
+<p><img class="alignnone wp-image-1301" src="/img/upload/Ilimitado-Fixo-Movel-Local.jpg" alt="Ilimitado Fixo Movel Local" width="587" height="307" /></p>
 
 <p><strong>Telefone Fixo  + Móvel Local</strong>, acha que é possível pagar um preço tão acessível por dois serviços tão utilizados atualmente?</p>
 

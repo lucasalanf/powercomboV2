@@ -7,7 +7,7 @@
 <p><strong>Isso acontece porquê são lhes dado, por mês, 120 GB para você usar e abusar todos os dias.</strong></p></blockquote>
 
 
-<p><img class="alignnone wp-image-954" src="http://powercombo.com.br/wp-content/uploads/2016/07/vivo-speedy-03.png" alt="vivo-speedy-03" width="734" height="477" /></p>
+<p><img class="alignnone wp-image-954" src="/img/upload/vivo-speedy-03.png" alt="vivo-speedy-03" width="734" height="477" /></p>
 <h2>Baixe Conteúdo rapidamente</h2>
 
 <p>Os 15 megas por segundo não ficam só no título do texto, eles aparecem na hora dos seus downloads, e o que isso quer dizer?</p>

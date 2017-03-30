@@ -8,7 +8,7 @@
 <p><strong>As diversas opções de planos de televisão da Vivo, está fazendo com que o valor se torne cada vez mais amigo, cabendo sem dificuldade até nos bolsos mais modestos.</strong></p></blockquote>
 
 
-<p><img class="alignnone wp-image-1180" src="http://powercombo.com.br/wp-content/uploads/2016/08/Vivo-TV-Full-HD-101-Canais-1.jpg" alt="Vivo TV Full HD 101 Canais" width="605" height="331" /></p>
+<p><img class="alignnone wp-image-1180" src="/img/upload/Vivo-TV-Full-HD-101-Canais-1.jpg" alt="Vivo TV Full HD 101 Canais" width="605" height="331" /></p>
 
 <p>A Vivo é uma das operadoras que mais atua ativamente no país, com bastante tempo no mercado, a Vivo continua ganhando a confiança do brasileiro ano após ano. E isso é graças ao serviço de qualidade, cobertura e agilidade em resolver os problemas para oferecer sempre a melhor opção para você.</p>
 

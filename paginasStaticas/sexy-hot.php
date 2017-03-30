@@ -9,7 +9,7 @@
 <p>São mais de duzentos filmes adultos mensalmente, colocando bastante ênfase nos filmes nacionais, ideal para quem gosta de ver nos mínimos detalhes todo o chame e sensualidade das brasileiras, e o melhor: <strong>sem pudor algum</strong>.</p></blockquote>
 
 
-<p><img class="alignnone wp-image-1128" src="http://powercombo.com.br/wp-content/uploads/2016/08/sexyhot-768x425.jpg" alt="sexyhot" width="589" height="326" /></p>
+<p><img class="alignnone wp-image-1128" src="/img/upload/sexyhot-768x425.jpg" alt="sexyhot" width="589" height="326" /></p>
 
 <p>Os canais à la carte podem ser adicionados ao seu pacote principal a qualquer momento, você é que manda e aproveita as inúmeras programações oferecidas!</p>
 <p>Dentro da programação do canal <strong>Sexy Hot</strong>, você terá uma infinidade de opções, dentre elas, você poderá acompanhar, aos sábados, o programa <strong>Penetra</strong>, apresentado pela sensual <strong>Bianca Jahara</strong> que colocará em pauta discussões sobre o comportamento sexual de modo completamente leve e despojado.</p>

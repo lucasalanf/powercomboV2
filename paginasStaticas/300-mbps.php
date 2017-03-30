@@ -5,7 +5,7 @@
 <blockquote><p>Se você deseja uma internet com mais estabilidade de conexão, com ultravelocidade e vindo de uma operadora de confiança, aproveite para conhecer a <strong>Vivo Fibra!</strong></p></blockquote>
 
 
-<p><img class="alignnone wp-image-1106" src="http://powercombo.com.br/wp-content/uploads/2016/08/Vivo-Internet-Fibra-300-Mbps.jpg" alt="Vivo Internet Fibra 300 Mbps" width="593" height="330" /></p>
+<p><img class="alignnone wp-image-1106" src="/img/upload/Vivo-Internet-Fibra-300-Mbps.jpg" alt="Vivo Internet Fibra 300 Mbps" width="593" height="330" /></p>
 
 <p>Esse plano é ideal para você e sua família ficarem sempre conectados com o mundo, já que a <strong>Vivo é líder no Brasil em banda larga</strong> de velocidade, segundo a Anatel, claro.</p>
 

@@ -11,7 +11,7 @@
 
 <p>Para você ter uma ideia, com o Telecine Light HD você conseguirá assistir diversos filmes de diversas categorias e épocas, sem deixar de economizar, já que aqui você tem os três canais de cada categoria, como vou explicar um pouco mais abaixo.</p>
 
-<p><img class="alignnone wp-image-1001" src="http://powercombo.com.br/wp-content/uploads/2016/07/vivo-pacote-telecine-light-HD.png" alt="vivo-pacote-telecine-light-HD" width="580" height="294" /></p>
+<p><img class="alignnone wp-image-1001" src="/img/upload/vivo-pacote-telecine-light-HD.png" alt="vivo-pacote-telecine-light-HD" width="580" height="294" /></p>
 
 <p>O legal é que o <strong>Telecine Light HD</strong> foi feito para aquelas pessoas que querem diversificar os filmes, conseguir assistir aquele filme que saiu do cinema o mais rápido possível e ainda com a tecnologia <strong>High Definition</strong> mesmo quando estiver assistindo um filme de 1900 e bolinha, mas que não querem gastar muito com isso.</p>
 

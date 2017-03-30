@@ -6,7 +6,7 @@
 <p>Atualmente, a Vivo possui mais de três planos para a sua televisão, desde o mais básico até o mais sofisticado, mas nunca perdendo o preço acessível que é o que realmente diferencia a Vivo dos concorrentes.</p>
 </blockquote>
 
-<p><img class="alignnone wp-image-1173" src="http://powercombo.com.br/wp-content/uploads/2016/08/Vivo-TV-Ultimate-HD-85-CANAIS.jpg" alt="Vivo TV Ultimate HD 85 CANAIS" width="577" height="327" /></p>
+<p><img class="alignnone wp-image-1173" src="/img/upload/Vivo-TV-Ultimate-HD-85-CANAIS.jpg" alt="Vivo TV Ultimate HD 85 CANAIS" width="577" height="327" /></p>
 
 <p>Todos os planos são em HD, inclusive, o Ultimate. Mas não se preocupe com cobranças extras, pois não terá qualquer tipo de cobrança adicional por aparelhos próprios para televisores HD ou não.</p>
 

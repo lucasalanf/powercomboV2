@@ -7,7 +7,7 @@
 <blockquote><p><strong>HBO Digital HD</strong> é, junto com a <strong>Telecine</strong>, as duas maiores redes de filmes em canal fechado da televisão brasileira, mas tem uma diferencial, ela apresenta uma grande quantidade de séries, inclusive, um sucesso mundial chamado <strong>Game of Thrones</strong>.</p></blockquote>
 
 
-<p><img class="alignnone wp-image-1005" src="http://powercombo.com.br/wp-content/uploads/2016/07/vivo-pacote-hbo-digital-hd-300x209.png" alt="vivo-pacote-hbo-digital-hd" width="627" height="437" /></p>
+<p><img class="alignnone wp-image-1005" src="/img/upload/vivo-pacote-hbo-digital-hd.png" alt="vivo-pacote-hbo-digital-hd" width="627" height="437" /></p>
 
 <p>Nesse pacote, uma versão econômica do <strong>HBO Digital MAX HD</strong>, você terá, em sua disponibilidade,<strong> 4 canais</strong> e com uma boa notícia, <strong>os quatro canais serão em HD</strong>.</p>
 

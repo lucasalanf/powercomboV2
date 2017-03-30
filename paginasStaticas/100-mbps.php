@@ -6,7 +6,7 @@
 
 <strong><p>Basicamente, a Vivo Fibra tem uma potência, se assim podemos dizer, muito maior do que a Vivo “normal”, especificamente, é mais do que o dobro.</p></strong></blockquote>
 
-<p><img class="alignnone wp-image-966 size-full" src="http://powercombo.com.br/wp-content/uploads/2016/07/vivo-speedy-05.png" alt="vivo-speedy-05," width="537" height="385" /></p>
+<p><img class="alignnone wp-image-966 size-full" src="/img/upload/vivo-speedy-05.png" alt="vivo-speedy-05," width="537" height="385" /></p>
 
 <p>Se a Vivo com o cabo trançado, a normal, tem velocidade de 30 mbps, a <strong>Vivo Fibra</strong> tem uma velocidade de 100 Mbps, ou seja, mais que o triplo (seguindo as mesmas características para a comparação).</p>
 

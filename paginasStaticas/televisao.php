@@ -3,7 +3,7 @@
 <div class="conteudoPrincipal row">
 <div class="container">
 
-<p><a href="http://powercombo.com.br/televisao/#modal"><img class="alignnone size-full wp-image-2783" src="http://powercombo.com.br/wp-content/uploads/2017/01/tv.jpg" alt="" style="width: 100%; height: auto" /></a></p>
+<p><a href="http://powercombo.com.br/televisao/#modal"><img class="alignnone size-full wp-image-2783" src="/img/upload/tv.jpg" alt="" style="width: 100%; height: auto" /></a></p>
 
 <p>(1) O Supremo Tribunal Federal (STF) decidiu no dia 13 de outubro de 2016 pela incidência de ICMS sobre o valor referente à assinatura mensal sem franquia de minutos. Assim, os valores apresentados serão alterados de forma a cumprir a orientação judicial. As contas com vencimento a partir de 01/01/2017 terão a cobrança da assinatura alterada de acordo com a alíquota de ICMS de cada estado. <a style="color: #808080;" href="https://www.vivo.com.br/portalweb/ShowPropertyServlet?nodeId=/UCMRepository/CONTRIB_125405&amp;_ga=1.158732730.1810760550.1475017477" target="_blank">Consulte aqui</a></p>
 

@@ -9,7 +9,7 @@
 
 </blockquote>
 
-<p><img class="alignnone wp-image-1149" src="http://powercombo.com.br/wp-content/uploads/2016/08/VIVO-TV-SUPER-39-CANAIS.jpg" alt="VIVO-TV-SUPER-39-CANAIS" width="575" height="406" /></p>
+<p><img class="alignnone wp-image-1149" src="/img/upload/VIVO-TV-SUPER-39-CANAIS.jpg" alt="VIVO-TV-SUPER-39-CANAIS" width="575" height="406" /></p>
 
 <p>Para você que já não aguenta mais assistir aos poucos canais disponíveis e quer uma programação mais diversificada, eu te aconselho fortemente a Super HD.</p>
 

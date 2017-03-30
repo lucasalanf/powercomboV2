@@ -7,7 +7,7 @@
 <p>Esse plano é perfeito para a família que adora acompanhar os jogos do time de coração ou para aquele casal que não perde um jogo se quer, mas ficaria caro ir para um estádio todos os fins de semana, não seria?</p>
 </blockquote>
 
-<p><img class="alignnone wp-image-1183" src="http://powercombo.com.br/wp-content/uploads/2016/08/Vivo-TV-Super-HD-Futebol.jpg" alt="Vivo TV Super HD Futebol" width="598" height="381" /></p>
+<p><img class="alignnone wp-image-1183" src="/img/upload/Vivo-TV-Super-HD-Futebol.jpg" alt="Vivo TV Super HD Futebol" width="598" height="381" /></p>
 
 <p>Então, para que você e sua família consiga acompanhar e assistir o melhor do futebol sem precisar sair do sofá, é interessante que você conheça o <strong>Super HD Futebol</strong>.</p>
 
