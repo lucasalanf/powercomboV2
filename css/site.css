@@ -194,9 +194,9 @@ body {
 .planos h3 {
     font: 33px OfficinaSerif_Bold;
     color: #660099;
-    text-align: center;
-    padding: 47px 0 50px 44px;
-    letter-spacing: -1px;
+    text-align: left;
+    padding: 47px 0 50px 0;
+
     margin-top: 0;
 }
 
@@ -663,3 +663,100 @@ h1.internas{ float: left; width: 100%; padding: 6px 0;
     font-weight: bold;
     color: #fff;
     font-family: 'open_sansbold';background-color: #ff9900; padding: 15px 0; text-align: left; margin-top: 0 }
+
+
+
+.formularioPrincipal {
+    background: #C9C9C9;
+    float: left;
+    width: 100%;
+    padding-bottom: 7px;
+    margin-bottom: 0;
+}
+
+.formulario{ float: right;  width: 86%; margin-top: 30px}
+    .formularioPrincipal input[type=text] {    height: 41px;
+    border-radius: 6px;
+    border: 1px solid #ECECFB;
+    text-indent: 8px; font-size: 12px;}
+
+.formularioPrincipal input{width: 15.5%;
+    float: left;
+    margin: 0 0.2%;
+    position: relative;}
+
+    .formularioPrincipal input[type=submit] {
+    background: #660099;
+    color: #FFF;
+    text-transform: capitalize;
+    border: 2px solid #660099!important;
+    border-radius: 5px;
+    width: 110px;
+    padding: 5px;
+    font-size: 16px;
+    color: #fff;
+    display: block;
+    height: 41px;
+    cursor: pointer;
+}
+
+.formularioPrincipal input.ddd {
+    width: 4.5%;
+}
+
+.consultarCobertura {
+    float: left;
+    color: #660099;
+    font-family: 'OfficinaSerif_Bold';
+    font-size: 26px;
+    width: 100px;
+    margin-top: 15px;
+    text-transform: capitalize;
+}
+
+.formularioPrincipal input:last-child {
+    width: 110px;
+}
+
+.planosFormulario input{margin-bottom: 8px;}
+
+.planosFormulario .consultar{background: #660099;
+    color: #FFF;
+    text-transform: uppercase;
+    border: 2px solid #660099!important;
+    border-radius: 5px;
+    width: 100%;
+    padding: 5px;
+    font-size: 0.9em;
+    color: #fff;
+    display: block;
+    height: 41px;
+    border: none;
+    margin: 4% 0 0 0;}
+
+.planosFormulario .consultar:hover {
+    border: 2px solid #E3E900!important;
+}
+
+.obrigado {
+    float: left;
+    width: 100%;
+    text-align: left;
+    font-size: 3em;
+    margin-top: 40px;
+    text-transform: uppercase;
+    color: #99cc33;
+    font-weight: bold;
+    font-family: OfficinaSerif_Bold;
+}
+
+.entraremos {
+    float: left;
+    width: 100%;
+    font-size: 25px;
+    color: #660099;
+    text-align: left;
+    letter-spacing: -1px;
+    margin: 0 0 12px 0;
+    font-family: OfficinaSerif_Bold;
+}

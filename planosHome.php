@@ -210,7 +210,15 @@
 <div class="remodal" data-remodal-id="modal">
     <div>
         <h2 id="modal1Title" class="modal1Title">Consulte a Disponibilidade</h2>
-    
+        <div class="planosFormulario">
+            <input type="text" name="nome" placeholder="Nome" class="nome">
+            <input type="text" name="email" placeholder="E-mail" class="email">
+            <input type="text" name="cep" placeholder="CEP" class="cep">
+            <input type="text" name="numeroResidencia" placeholder="Numero da Residência" class="numeroResidencia">
+            <input type="text" name="ddd" placeholder="ddd"  maxlength="2" class="ddd">
+            <input type="text" name="telefone" placeholder="Telefone" maxlength="9" class="telefone">
+            <input type="submit" name="" value="Consultar" class="consultar">
+        </div>
 
     </div>
 </div>

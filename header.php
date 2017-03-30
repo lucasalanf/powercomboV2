@@ -6,13 +6,15 @@
     <meta property="og:title" content="Vivo - Assine agora - Internet Fibra, HD TV e Vivo Fixo" />
     <meta charset="utf-8" />
    
-    <link rel="canonical" href="http://powercombo.com.br/" />
+    
     <meta property="og:site_name" content="Internet Fibra, HD TV e Vivo Fixo" />
 
    <?php include 'titulosDescricoes.php' ?>
 
     <title><?=$tituloHeader?></title>
     <meta name="description" content="<?=$descricao?>"/>
+    <link rel="canonical" href="<?=$url?>" />
+
     <script src="/powercomboV2/js/jquery-3.2.0.min.js"></script>
 
      <!-- Latest compiled and minified CSS -->
@@ -67,6 +69,21 @@
             </div><!--row-->          
         </div><!--wrapper-->
     </div><!--topo-->
+
+    <div class="formularioPrincipal">
+        <div class="container">
+            <span class="consultarCobertura">Consulte Cobertura</span>
+            <div class="formulario">
+                <input type="text" name="nome" placeholder="Nome" class="nome">
+                <input type="text" name="email" placeholder="E-mail" class="email">
+                <input type="text" name="cep" placeholder="CEP" class="cep">
+                <input type="text" name="numeroResidencia" placeholder="Numero da Residência" class="numeroResidencia">
+                <input type="text" name="ddd" placeholder="ddd"  maxlength="2" class="ddd">
+                <input type="text" name="telefone" placeholder="Telefone" maxlength="9" class="telefone">
+                <input type="submit" name="" value="Consultar" class="consultarTop">
+            </div>
+        </div>
+    </div>
 
     <div class="row">
         <div class="flexslider col-lg-12 col-md-12 col-sm-12">
