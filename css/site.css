@@ -2,16 +2,16 @@
 
 @font-face {
     font-family: 'open_sansbold';
-    src: url('/powercomboV2/fonts/opensans_bold_macroman/OpenSans-Bold-webfont.eot');
-    src: url('/powercomboV2/fonts/opensans_bold_macroman/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'), url('/powercomboV2/fonts/opensans_bold_macroman/OpenSans-Bold-webfont.woff') format('woff'), url('/powercomboV2/fonts/opensans_bold_macroman/OpenSans-Bold-webfont.ttf') format('truetype'), url('/powercomboV2/fonts/opensans_bold_macroman/OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
+    src: url('/fonts/opensans_bold_macroman/OpenSans-Bold-webfont.eot');
+    src: url('/fonts/opensans_bold_macroman/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'), url('/fonts/opensans_bold_macroman/OpenSans-Bold-webfont.woff') format('woff'), url('/fonts/opensans_bold_macroman/OpenSans-Bold-webfont.ttf') format('truetype'), url('/fonts/opensans_bold_macroman/OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'open_sansregular';
-    src: url('/powercomboV2/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.eot');
-    src: url('/powercomboV2/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'), url('/powercomboV2/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.woff') format('woff'), url('/powercomboV2/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.ttf') format('truetype'), url('/powercomboV2/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+    src: url('/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.eot');
+    src: url('/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'), url('/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.woff') format('woff'), url('/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.ttf') format('truetype'), url('/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -19,8 +19,8 @@
 
 @font-face {
     font-family: 'OfficinaSerif_Bold';
-    src: url('/powercomboV2/fonts/officinaserif-bold-webfont-webfont.eot');
-    src: url('/powercomboV2/fonts/officinaserif-bold-webfont-webfont.eot?#iefix') format('embedded-opentype'), url('/powercomboV2/fonts/officinaserif-bold-webfont-webfont.woff2') format('woff2'), url('/powercomboV2/fonts/officinaserif-bold-webfont-webfont.woff') format('woff'), url('/fonts/officinaserif-bold-webfont-webfont.ttf') format('truetype'), url('/powercomboV2/fonts/officinaserif-bold-webfont-webfont.svg#officinaserifbold') format('svg');
+    src: url('/fonts/officinaserif-bold-webfont-webfont.eot');
+    src: url('/fonts/officinaserif-bold-webfont-webfont.eot?#iefix') format('embedded-opentype'), url('/fonts/officinaserif-bold-webfont-webfont.woff2') format('woff2'), url('/fonts/officinaserif-bold-webfont-webfont.woff') format('woff'), url('/fonts/officinaserif-bold-webfont-webfont.ttf') format('truetype'), url('/fonts/officinaserif-bold-webfont-webfont.svg#officinaserifbold') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -29,8 +29,8 @@
 
 @font-face {
     font-family: 'OfficinaSerif_Book';
-    src: url('/powercomboV2/fonts/officinaserif-book-webfont-webfont.eot');
-    src: url('/powercomboV2/fonts/officinaserif-book-webfont-webfont.eot?#iefix') format('embedded-opentype'), url('/powercomboV2/fonts/officinaserif-book-webfont-webfont.woff2') format('woff2'), url('/powercomboV2/fonts/officinaserif-book-webfont-webfont.woff') format('woff'), url('/fonts/officinaserif-book-webfont-webfont.ttf') format('truetype'), url('/powercomboV2/fonts/officinaserif-book-webfont-webfont.svg#itc_officina_serif_bookRg') format('svg');
+    src: url('/fonts/officinaserif-book-webfont-webfont.eot');
+    src: url('/fonts/officinaserif-book-webfont-webfont.eot?#iefix') format('embedded-opentype'), url('/fonts/officinaserif-book-webfont-webfont.woff2') format('woff2'), url('/fonts/officinaserif-book-webfont-webfont.woff') format('woff'), url('/fonts/officinaserif-book-webfont-webfont.ttf') format('truetype'), url('/fonts/officinaserif-book-webfont-webfont.svg#itc_officina_serif_bookRg') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -72,6 +72,8 @@ body {
         font-size: 2.0em !important;
         color: #666;
         height: 66px;
+        position: relative;
+        z-index: 8;
     }
 
         .topo .fone i {
@@ -93,6 +95,7 @@ body {
     font-size: 0.7em !important;
     color: #666;
     font-family: 'open_sansregular';
+    margin-right: 8px;
 }
 
 .controlaLarguraMin {
@@ -323,7 +326,7 @@ body {
 .boxCaixaTV .controle {
     float: left;
     width: 100%;
-    background: url(/powercomboV2/img/offers/canais.png) no-repeat left;
+    background: url(/img/offers/canais.png) no-repeat left;
     height: 108px;
     padding-left: 15px;
     margin-left: 15px;
@@ -396,13 +399,13 @@ body {
             }
 
                 .rodape .redesSociais ul li.facebook {
-                    background: url(/powercomboV2/img/redesSociais.png) no-repeat -94px 0px;
+                    background: url(/img/redesSociais.png) no-repeat -94px 0px;
                     width: 24px;
                     height: 24px;
                 }
 
                 .rodape .redesSociais ul li.twitter {
-                    background: url(/powercomboV2/img/redesSociais.png) no-repeat -32px 0px;
+                    background: url(/img/redesSociais.png) no-repeat -32px 0px;
                     width: 24px;
                     height: 24px;
                 }
@@ -423,7 +426,7 @@ footer {
         display: inline;
         width: 102px;
         height: 72px;
-        background: url(/powercomboV2/img/logo-vivo-mini.jpg) no-repeat left top;
+        background: url(/img/logo-vivo-mini.jpg) no-repeat left top;
         margin-left: 15px;
     }
 
@@ -676,7 +679,7 @@ h1.internas{ float: left; width: 100%; padding: 6px 0;
 }
 
 .formulario{ float: right;  width: 86%; margin-top: 30px}
-    .formularioPrincipal input[type=text] {    height: 41px;
+    .formularioPrincipal input[type=text],.formularioPrincipal input[type=number] {    height: 41px;
     border-radius: 6px;
     border: 1px solid #ECECFB;
     text-indent: 8px; font-size: 12px;}
@@ -781,3 +784,14 @@ h1.internas{ float: left; width: 100%; padding: 6px 0;
 
 .btnTelefoneLigamos{ display: none!important }
 }
+
+.tooltip-inner{    background-color: #609;}
+
+.tooltip.top .tooltip-arrow {
+
+    border-top-color: #609;
+}
+
+.planosFormulario .tooltip-inner{ width: 180px; }
+
+#ligamosParaVoceValidate .tooltip-inner{ width: 180px; }

@@ -35,19 +35,22 @@
 
             case "vivo-santa-barbara-do-oeste":
                  $tituloHeader = "Vivo Santa Bárbara do Oeste - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO SANTA BÁRBARA DO OESTE";          
+                 $tituloPagina = "VIVO SANTA BÁRBARA DO OESTE";    
+                 $cidade = "Santa Bárbara do Oeste";   
                  $descricao = "Vivo Santa Bárbara do Oeste tem os melhores serviços TV por assinatura, internet banda larga Vivo Speedy Fibra e telefonia fixa e móvel, confira combos Vivo";
                 break;
 
             case "vivo-suzano":
                  $tituloHeader = "Vivo | GVT Suzano - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO | GVT SUZANO";          
+                 $tituloPagina = "VIVO | GVT SUZANO";   
+                 $cidade = "Suzano";      
                  $descricao = "Vivo + GVT Suzano tem os melhores serviços em TV por assinatura, internet e telefonia fixa e móvel, confira combos Vivo GVT em Suzano";
                 break;
 
             case "vivo-aruja":
                  $tituloHeader = "Vivo | GVT Arujá - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO | GVT ARUJÁ";          
+                 $tituloPagina = "VIVO | GVT ARUJÁ";     
+                 $cidade = "Arujá";     
                  $descricao = "Vivo + GVT Arujá tem os melhores serviços em TV por assinatura, internet banda larga Speedy e telefonia fixa e móvel, confira combos Vivo GVT em Arujá";
                 break;
 
@@ -59,7 +62,8 @@
 
             case "vivo-sorocaba":
                  $tituloHeader = "Vivo | GVT Sorocaba - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO | GVT SOROCABA";          
+                 $tituloPagina = "VIVO | GVT SOROCABA";
+                 $cidade = "Sorocaba";       
                  $descricao = "Vivo + GVT Sorocaba tem os melhores serviços em TV por assinatura, internet banda larga e telefonia fixa e móvel, confira combos Vivo GVT em Sorocaba";
                 break;
 
@@ -240,445 +244,519 @@
 
              case "vivo-sao-jose-do-rio-preto":
                  $tituloHeader = "Vivo São José do Rio Preto - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO SÃO JOSÉ DO RIO PRETO";          
+                 $tituloPagina = "VIVO SÃO JOSÉ DO RIO PRETO";   
+                 $cidade = "São José do Rio Preto";       
                  $descricao = "Vivo São José do Rio Preto tem serviços em TV por assinatura,Internet Vivo Speedy Fibra e telefonia fixa e móvel, confira combos Vivo São José do Rio Preto";
                 break;
 
              case "vivo-praia-grande":
                  $tituloHeader = "Vivo Praia Grande - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO PRAIA GRANDE";          
+                 $tituloPagina = "VIVO PRAIA GRANDE"; 
+                 $cidade = "Praia Grande";         
                  $descricao = "Vivo Praia Grande tem os melhores serviços em TV por assinatura, internet banda larga Vivo Speedy Fibra e telefonia fixa e móvel, combos Vivo Praia Grande";
                 break;
 
-             case "vivo-itaquaquecetuba":
-                 $tituloHeader = "Vivo Itaquaquecetuba - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO ITAQUAQUECETUBA";          
+             case "gvt-itaquaquecetuba":
+                 $tituloHeader = "GVT | Vivo Itaquaquecetuba - Internet Fibra, HD TV e Vivo Fixo";     
+                 $tituloPagina = "GVT | Vivo ITAQUAQUECETUBA";  
+                 $cidade = "Itaquaquecetuba";        
                  $descricao = "Vivo + GVT Itaquaquecetuba tem os melhores serviços em TV por assinatura, internet e telefonia fixa e móvel, confira combos Vivo GVT em Itaquaquecetuba";
                 break;
 
              case "vivo-ribeirao-pires":
                  $tituloHeader = "Vivo Ribeirão Pires - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO RIBEIRÃO PIRES";          
+                 $tituloPagina = "VIVO RIBEIRÃO PIRES";         
+                 $cidade = "Ribeirão Pires"; 
                  $descricao = "Vivo Ribeirão Pires tem os melhores serviços em TV por assinatura, internet e telefonia fixa e móvel, confira combos Vivo em Ribeirão Pires";
                 break;
 
              case "vivo-sao-caetano-do-sul":
                  $tituloHeader = "Vivo São Caetano do Sul - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO SÃO CAETANO DO SUL";          
+                 $tituloPagina = "VIVO SÃO CAETANO DO SUL"; 
+                 $cidade = "São Caetano do Sul";         
                  $descricao = "Vivo São Caetano do sul tem os melhores serviços em TV por assinatura, internet banda larga e telefonia fixa e móvel do país, confira combos Vivo";
                 break;
 
              case "vivo-ribeirao-preto":
                  $tituloHeader = "Vivo Ribeirão Preto - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO RIBEIRÃO PRETO";          
+                 $tituloPagina = "VIVO RIBEIRÃO PRETO";  
+                 $cidade = "Ribeirão Preto";        
                  $descricao = "Vivo Ribeirao Preto tem os melhores serviços em TV por assinatura, internet e telefonia fixa e móvel, confira combos Vivo em Ribeirão Preto";
                 break;
 
              case "vivo-campinas":
                  $tituloHeader = "Vivo Campinas - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO CAMPINAS";          
+                 $tituloPagina = "VIVO CAMPINAS";       
+                 $cidade = "Campinas";   
                  $descricao = "Vivo Campinas e região, tem os melhores serviços em TV por assinatura, internet fibra, banda larga, telefonia fixa e móvel do país, confira combos Vivo";
                 break;
 
              case "vivo-guarulhos":
                  $tituloHeader = "Vivo Guarulhos - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO GUARULHOS";          
+                 $tituloPagina = "VIVO GUARULHOS";  
+                 $cidade = "Guarulhos";        
                  $descricao = "Vivo Guarulhos tem os melhores serviços em TV por assinatura, internet fibra, banda larga e telefonia fixa e móvel, confira combos Vivo em Guarulhos";
                 break;
 
              case "vivo-araraquara":
                  $tituloHeader = "Vivo Araraquara - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO ARARAQUARA";          
+                 $tituloPagina = "VIVO ARARAQUARA";  
+                 $cidade = "Araraquara";        
                  $descricao = "Vivo Araraquara tem os melhores serviços em TV por assinatura, internet fibra, banda larga e telefonia fixa e móvel, confira combos Vivo em Araraquara";
                 break;
 
              case "vivo-taubate":
                  $tituloHeader = "Vivo Taubaté - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO TAUBATÉ";          
+                 $tituloPagina = "VIVO TAUBATÉ";
+                 $cidade = "Taubaté";         
                  $descricao = "Vivo Taubaté tem os melhores serviços em TV por assinatura, internet banda larga e telefonia fixa e móvel, confira combos Vivo em Taubaté";
                 break;
 
              case "vivo-jacarei":
                  $tituloHeader = "Vivo Jacareí - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO JACAREÍ";          
+                 $tituloPagina = "VIVO JACAREÍ"; 
+                 $cidade = "Jacareí";         
                  $descricao = "Vivo Jacareí tem os melhores serviços em TV por assinatura, internet banda larga e telefonia fixa e móvel, confira combos Vivo em Jacareí";
                 break;
 
              case "vivo-americana":
                  $tituloHeader = "Vivo Americana - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO AMERICANA";          
+                 $tituloPagina = "VIVO AMERICANA"; 
+                 $cidade = "Americana";         
                  $descricao = "Vivo Americana tem os melhores serviços em TV por assinatura, Vivo Internet Fibra, e telefonia fixa e móvel, confira combos Vivo em Americana";
                 break;
 
              case "vivo-diadema":
                  $tituloHeader = "Vivo Diadema - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO DIADEMA";          
+                 $tituloPagina = "VIVO DIADEMA";
+                 $cidade = "Diadema";         
                  $descricao = "Vivo Diadema tem os melhores serviços em TV por assinatura,internet banda larga Vivo Speedy Fibra e telefonia fixa e móvel do país, combos Vivo em Diadema";
                 break;
 
              case "vivo-hortolandia":
                  $tituloHeader = "Vivo Hortolândia - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO HORTOLÂNDIA";          
+                 $tituloPagina = "VIVO HORTOLÂNDIA";   
+                 $cidade = "Hortolândia";       
                  $descricao = "Vivo Hortolândia tem os melhores serviços em TV por assinatura, internet banda larga e telefonia fixa e móvel, confira combos Vivo em Hortolândia";
                 break;
 
              case "vivo-cotia":
                  $tituloHeader = "Vivo Cotia - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO COTIA";          
+                 $tituloPagina = "VIVO COTIA";    
+                 $cidade = "Cotia";      
                  $descricao = "Vivo Cotia tem os melhores serviços em TV por assinatura, internet banda larga e telefonia fixa e móvel, confira combos Vivo em Cotia";
                 break;
 
              case "vivo-sao-vicente":
                  $tituloHeader = "Vivo São Vicente - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO SÃO VICENTE";          
+                 $tituloPagina = "VIVO SÃO VICENTE"; 
+                 $cidade = "São Vicente";         
                  $descricao = "Vivo São Vicente tem os melhores serviços em TV por assinatura, internet fibra banda larga e telefonia fixa e móvel, confira combos Vivo em São Vicente";
                 break;
 
              case "vivo-sao-paulo":
                  $tituloHeader = "Vivo São Paulo - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO SÃO PAULO";          
+                 $tituloPagina = "VIVO SÃO PAULO"; 
+                 $cidade = "São Paulo";         
                  $descricao = "Vivo São Paulo tem os melhores serviços em TV por assinatura, internet fibra, banda larga e telefonia fixa e móvel, confira combos Vivo São Paulo";
                 break;
 
              case "vivo-sao-jose-dos-campos":
                  $tituloHeader = "Vivo São José dos Campos - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO SÃO JOSÉ DOS CAMPOS";          
+                 $tituloPagina = "VIVO SÃO JOSÉ DOS CAMPOS"; 
+                 $cidade = "São José dos Campos";         
                  $descricao = "Vivo São José dos Campos tem os melhores serviços em TV por assinatura, internet banda larga e telefonia fixa e móvel, confira combos Vivo";
                 break;
 
              case "vivo-igarata":
                  $tituloHeader = "Vivo Igaratá - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO IGARATÁ";          
+                 $tituloPagina = "VIVO IGARATÁ";    
+                 $cidade = "Igaratá";      
                  $descricao = "Vivo Igaratá tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Igaratá";
                 break;
 
              case "vivo-ibiuna":
                  $tituloHeader = "Vivo Ibiúna - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO IBIÚNA";          
+                 $tituloPagina = "VIVO IBIÚNA";    
+                 $cidade = "Ibiúna";      
                  $descricao = "Vivo Ibiúna tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Ibiúna";
                 break;
 
              case "vivo-ibitinga":
                  $tituloHeader = "Vivo Ibitinga - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO IBITINGA";          
+                 $tituloPagina = "VIVO IBITINGA";   
+                 $cidade = "Ibitinga";       
                  $descricao = "Vivo Ibitinga tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Ibitinga";
                 break;
 
              case "vivo-guariba":
                  $tituloHeader = "Vivo Guariba - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO GUARIBA";          
+                 $tituloPagina = "VIVO GUARIBA";  
+                 $cidade = "Guariba";        
                  $descricao = "Vivo Guariba tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Guariba";
                 break;
 
              case "vivo-guarei":
                  $tituloHeader = "Vivo Guarei - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO GUAREI";          
+                 $tituloPagina = "VIVO GUAREI";  
+                 $cidade = "Guarei";        
                  $descricao = "Vivo Guarei tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Guarei";
                 break;
 
              case "vivo-guararema":
                  $tituloHeader = "Vivo Guararema - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO GUARAREMA";          
+                 $tituloPagina = "VIVO GUARAREMA";  
+                 $cidade = "Guarema";        
                  $descricao = "Vivo Guararema tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Guararema";
                 break;
 
              case "vivo-guararapes":
                  $tituloHeader = "Vivo Guararapes - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO GUARARAPES";          
+                 $tituloPagina = "VIVO GUARARAPES";  
+                 $cidade = "Guararapes";        
                  $descricao = "Vivo Guararapes tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Guararapes";
                 break;
 
              case "vivo-guapiara":
                  $tituloHeader = "Vivo Guapiara - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO GUAPIARA";          
+                 $tituloPagina = "VIVO GUAPIARA";     
+                 $cidade = "Guapiara";     
                  $descricao = "Vivo Guapiara tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Guapiara";
                 break;
 
              case "vivo-garca":
                  $tituloHeader = "Vivo Garça - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO GARÇA";          
+                 $tituloPagina = "VIVO GARÇA";   
+                 $cidade = "Garça";       
                  $descricao = "Vivo garça tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em garça";
                 break;
 
             case "vivo-fernandopolis":
                  $tituloHeader = "Vivo Fernandópolis - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO FERNANDÓPOLIS";          
+                 $tituloPagina = "VIVO FERNANDÓPOLIS";  
+                 $cidade = "Fernandópolis";        
                  $descricao = "Vivo Fernandópolis tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Fernandópolis";
                 break;
 
              case "vivo-dracena":
                  $tituloHeader = "Vivo Dracena - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO DRACENA";          
+                 $tituloPagina = "VIVO DRACENA";   
+                 $cidade = "Dracena";       
                  $descricao = "Vivo Dracena tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Dracena";
                 break;
 
              case "vivo-cravinhos":
                  $tituloHeader = "Vivo Cravinhos - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO CRAVINHOS";          
+                 $tituloPagina = "VIVO CRAVINHOS";   
+                 $cidade = "Cravinhos";       
                  $descricao = "Vivo Cravinhos tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Cravinhos";
                 break;
 
             case "vivo-cesario-lange":
                  $tituloHeader = "Vivo Cesário Lange - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO CESÁRIO LANGE";          
+                 $tituloPagina = "VIVO CESÁRIO LANGE";  
+                 $cidade = "Cesário Lange";        
                  $descricao = "Vivo Cesário Lange tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Cesário Lange";
                 break;
 
              case "vivo-cerquilho":
                  $tituloHeader = "Vivo Cerquilho - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO CERQUILHO";          
+                 $tituloPagina = "VIVO CERQUILHO"; 
+                 $cidade = "Cerquilho";         
                  $descricao = "Vivo Cerquilho tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Cerquilho";
                 break;
 
              case "vivo-capela-do-alto":
                  $tituloHeader = "Vivo Capela do Alto - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO CAPELA DO ALTO";          
+                 $tituloPagina = "VIVO CAPELA DO ALTO"; 
+                 $cidade = "Capela do Alto";         
                  $descricao = "Vivo Capela do Alto tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Capela do Alto";
                 break;
 
             case "vivo-capao-bonito":
                  $tituloHeader = "Vivo Capão Bonito - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO CAPÃO BONITO";          
+                 $tituloPagina = "VIVO CAPÃO BONITO";     
+                 $cidade = "Capão Bonito";     
                  $descricao = "Vivo Capão Bonito tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Capão Bonito";
                 break;
 
              case "vivo-buri":
                  $tituloHeader = "Vivo Buri - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO BURI";          
+                 $tituloPagina = "VIVO BURI";   
+                 $cidade = "Buri";       
                  $descricao = "Vivo Buri tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Buri";
                 break;
 
              case "vivo-bom-sucesso-de-itarare":
                  $tituloHeader = "Vivo Bom Sucesso de Itararé - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO BOM SUCESSO DE ITARARÉ";          
+                 $tituloPagina = "VIVO BOM SUCESSO DE ITARARÉ";   
+                 $cidade = "Bom Sucesso de Itararé";      
                  $descricao = "Vivo Bom sucesso de Itararé tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, combos Vivo em Bom sucesso de Itararé";
                 break;
 
             case "vivo-boituva":
                  $tituloHeader = "Vivo Boituva - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO BOITUVA";          
+                 $tituloPagina = "VIVO BOITUVA";    
+                 $cidade = "Boituva";      
                  $descricao = "Vivo Boituva tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Boituva";
                 break;
 
              case "vivo-biritiba-mirim":
                  $tituloHeader = "Vivo Biritiba Mirim - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO BIRITIBA MIRIM";          
+                 $tituloPagina = "VIVO BIRITIBA MIRIM"; 
+                 $cidade = "Bititiba Mirim";         
                  $descricao = "Vivo Biritiba Mirim tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Biritiba Mirim";
                 break;
 
              case "vivo-barretos":
                  $tituloHeader = "Vivo Barretos - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO BARRETOS";          
+                 $tituloPagina = "VIVO BARRETOS"; 
+                 $cidade = "Barretos";         
                  $descricao = "Vivo Barretos tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Barretos";
                 break;
 
             case "vivo-barra-do-turvo":
                  $tituloHeader = "Vivo Barra do Turvo - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO BARRA DO TURVO";          
+                 $tituloPagina = "VIVO BARRA DO TURVO";    
+                 $cidade = "Barra do Turvo";      
                  $descricao = "Vivo Barra do Turvo tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Barra do Turvo";
                 break;
 
              case "vivo-barra-do-chapeu":
                  $tituloHeader = "Vivo Barra do Chapéu - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO BARRA DO CHAPÉU";          
+                 $tituloPagina = "VIVO BARRA DO CHAPÉU";  
+                 $cidade = "Barra do Chapéu";        
                  $descricao = "Vivo Barra do Chapéu tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Barra do Chapéu";
                 break;
 
              case "vivo-barra-bonita":
                  $tituloHeader = "Vivo Barra Bonita - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO BARRA BONITA";          
+                 $tituloPagina = "VIVO BARRA BONITA";      
+                 $cidade = "Barra Bonita";    
                  $descricao = "Vivo Barra Bonita tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Barra Bonita";
                 break;
 
             case "vivo-bariri":
                  $tituloHeader = "Vivo Bariri - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO BARIRI";          
+                 $tituloPagina = "VIVO BARIRI";    
+                 $cidade = "Bariri";      
                  $descricao = "Vivo Bariri tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Bariri";
                 break;
 
              case "vivo-barao-de-antonina":
                  $tituloHeader = "Vivo Barão de Antonina - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO BARÃO DE ANTONINA";          
+                 $tituloPagina = "VIVO BARÃO DE ANTONINA";  
+                 $cidade = "Barão de Antonina";         
                  $descricao = "Vivo Barão de Antonina tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Barão de Antonina";
                 break;
 
              case "vivo-avare":
                  $tituloHeader = "Vivo Avaré - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO AVARÉ";          
+                 $tituloPagina = "VIVO AVARÉ";       
+                  $cidade = "Avaré";   
                  $descricao = "Vivo Avaré tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Avaré";
                 break;
 
             case "vivo-assis":
                  $tituloHeader = "Vivo Assis - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO ASSIS";          
+                 $tituloPagina = "VIVO ASSIS";  
+                $cidade = "Assis";        
                  $descricao = "Vivo Assis tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Assis";
                 break;
 
              case "vivo-aracoiaba-da-serra":
                  $tituloHeader = "Vivo Araçoiaba da Serra - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO ARAÇOIABA DA SERRA";          
+                 $tituloPagina = "VIVO ARAÇOIABA DA SERRA";   
+                $cidade = "Araçoiaba da Serra";       
                  $descricao = "Vivo Araçoiaba da Serra tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Araçoiaba da Serra";
                 break;
 
              case "vivo-apiai":
                  $tituloHeader = "Vivo Apiai - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO APIAI";          
+                 $tituloPagina = "VIVO APIAI";
+                 $cidade = "Apiai";          
                  $descricao = "Vivo Apiai tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Apiai";
                 break;
 
             case "vivo-angatuba":
                  $tituloHeader = "Vivo Angatuba - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO ANGATUBA";          
+                 $tituloPagina = "VIVO ANGATUBA"; 
+                 $cidade = "Angatuba";         
                  $descricao = "Vivo Angatuba tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Angatuba";
                 break;
 
              case "vivo-andradina":
                  $tituloHeader = "Vivo Andradina - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO ANDRADINA";          
+                 $tituloPagina = "VIVO ANDRADINA";  
+                 $cidade = "Andradina";        
                  $descricao = "Vivo Andradina tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Andradina";
                 break;
 
              case "vivo-alambari":
                  $tituloHeader = "Vivo Alambari - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO ALAMBARI";          
+                 $tituloPagina = "VIVO ALAMBARI"; 
+                 $cidade = "Alambari";         
                  $descricao = "Vivo Alambari tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Alambari";
                 break;
 
             case "vivo-agudos":
                  $tituloHeader = "Vivo Agudos - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO AGUDOS";          
+                 $tituloPagina = "VIVO AGUDOS";  
+                 $cidade = "Agudos";        
                  $descricao = "Vivo Agudos tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Agudos";
                 break;
 
              case "vivo-adamantina":
                  $tituloHeader = "Vivo Adamantina - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO ADAMANTINA";          
+                 $tituloPagina = "VIVO ADAMANTINA";     
+                 $cidade = "Adamantina";     
                  $descricao = "Vivo Adamantina tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Adamantina";
                 break;
 
             case "vivo-sertaozinho":
                  $tituloHeader = "Vivo Sertãozinho - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO SERTÃOZINHO";          
+                 $tituloPagina = "VIVO SERTÃOZINHO"; 
+                 $cidade = "Sertãozinho";         
                  $descricao = "Vivo Sertãozinho tem os melhores serviços em TV por assinatura, Vivo Speedy, e telefonia fixa e móvel, confira combos Vivo em Sertãozinho";
                 break;
 
             case "vivo-botucatu":
                  $tituloHeader = "Vivo Botucatu - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO BOTUCATU";          
+                 $tituloPagina = "VIVO BOTUCATU";  
+                 $cidade = "Botucatu";        
                  $descricao = "Vivo Botucatu tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Botucatu";
                 break;
 
              case "vivo-ferraz-de-vasconcelos":
                  $tituloHeader = "Vivo Ferraz de Vasconcelos - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO FERRAZ DE VASCONCELOS";          
+                 $tituloPagina = "VIVO FERRAZ DE VASCONCELOS"; 
+                 $cidade = "Ferraz de Vasconcelos";         
                  $descricao = "Vivo Ferraz de Vasconcelos tem os melhores serviços em TV por assinatura, Vivo Speedy, telefonia fixa e móvel, confira combos Vivo em Ferraz de Vasconcelos";
                 break;
 
              case "vivo-aracatuba":
                  $tituloHeader = "Vivo Araçatuba - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO ARAÇATUBA";          
+                 $tituloPagina = "VIVO ARAÇATUBA";    
+                 $cidade = "Araçatuba";      
                  $descricao = "Vivo Araçatuba tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Vivo em Araçatuba";
                 break;
 
             case "vivo-marilia":
                  $tituloHeader = "Vivo Marília - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO MARÍLIA";          
+                 $tituloPagina = "VIVO MARÍLIA";     
+                 $cidade = "Marília";     
                  $descricao = "Vivo Marília tem os melhores serviços em TV por assinatura, Vivo Speedy, e telefonia fixa e móvel, confira combos Vivo em Marília";
                 break;
 
             case "vivo-itatiba":
                  $tituloHeader = "Vivo Itatiba - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO ITATIBA";          
+                 $tituloPagina = "VIVO ITATIBA";    
+                 $cidade = "Itatiba";      
                  $descricao = "Vivo Itatiba tem os melhores serviços em TV por assinatura, internet banda larga e telefonia fixa e móvel, confira combos Vivo em Itatiba";
                 break;
 
              case "vivo-sao-carlos":
                  $tituloHeader = "Vivo São Carlos - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO SÃO CARLOS";          
+                 $tituloPagina = "VIVO SÃO CARLOS"; 
+                 $cidade = "São Carlos";        
                  $descricao = "Vivo São Carlos tem os melhores serviços em TV por assinatura, Vivo Speedy, e telefonia fixa e móvel, confira combos Vivo em São Carlos";
                 break;
 
              case "vivo-presidente-prudente":
                  $tituloHeader = "Vivo Presidente Prudente - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO PRESIDENTE PRUDENTE";          
+                 $tituloPagina = "VIVO PRESIDENTE PRUDENTE";   
+                 $cidade = "Presidente Prudente";       
                  $descricao = "Vivo + GVT Presidente Prudente tem os melhores serviços em TV por assinatura, internet speedy e telefonia fixa e móvel, confira combos Presidente Prudente";
                 break;
 
             case "vivo-votorantim":
                  $tituloHeader = "Vivo Votorantim - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO VOTORANTIM";          
+                 $tituloPagina = "VIVO VOTORANTIM";  
+                 $cidade = "Votorantim";        
                  $descricao = "Vivo Votorantim tem os melhores serviços em TV por assinatura, internet fibra e telefonia fixa e móvel, confira combos Vivo em Votorantim";
                 break;
 
             case "vivo-sao-bernardo-do-campo":
                  $tituloHeader = "Vivo | GVT São Bernardo do Campo - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO | GVT SÃO BERNARDO DO CAMPO";          
+                 $tituloPagina = "VIVO | GVT SÃO BERNARDO DO CAMPO";       
+                 $cidade = "São Bernardo do Campo";   
                  $descricao = "Vivo + GVT São Bernardo do Campo tem os melhores serviços em TV por assinatura, internet e telefonia fixa e móvel, combos Vivo GVT em São Bernardo do Campo";
                 break;
 
              case "vivo-mogi-das-cruzes":
                  $tituloHeader = "Vivo | GVT Mogi das Cruzes - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO | GVT MOGI DAS CRUZES";          
+                 $tituloPagina = "VIVO | GVT MOGI DAS CRUZES";  
+                 $cidade = "Mogi das Cruzes";        
                  $descricao = "Vivo + GVT Mogi das Cruzes tem os melhores serviços em TV por assinatura, internet e telefonia fixa e móvel, confira combos Vivo GVT em Mogi das Cruzes";
                 break;
 
              case "vivo-santos":
                  $tituloHeader = "Vivo | GVT Santos - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO | GVT SANTOS";          
+                 $tituloPagina = "VIVO | GVT SANTOS";      
+                 $cidade = "Santos";    
                  $descricao = "Vivo + GVT Santos tem os melhores serviços em TV por assinatura, internet e telefonia fixa e móvel, confira combos Vivo GVT em Santos";
                 break;
 
             case "vivo-santo-andre":
                  $tituloHeader = "Vivo | GVT Santo André - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO | GVT SANTO ANDRÉ";          
+                 $tituloPagina = "VIVO | GVT SANTO ANDRÉ";   
+                 $cidade = "Santo André";       
                  $descricao = "Vivo + GVT Santo André tem os melhores serviços em TV por assinatura, internet e telefonia fixa e móvel, confira combos Vivo GVT em Santo André";
                 break;
 
             case "vivo-varzea-paulista":
                  $tituloHeader = "Vivo | GVT Várzea Paulista - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO | GVT VÁRZEA PAULISTA";          
+                 $tituloPagina = "VIVO | GVT VÁRZEA PAULISTA"; 
+                 $cidade = "Várzea Paulista";         
                  $descricao = "Vivo + GVT Várzea Paulista tem os melhores serviços em TV por assinatura, internet vivo speedy e telefonia fixa e móvel, confira combos em Várzea Paulista";
                 break;
 
              case "vivo-maua":
                  $tituloHeader = "Vivo | GVT Mauá - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO | GVT MAUÁ";          
+                 $tituloPagina = "VIVO | GVT MAUÁ";    
+                 $cidade = "Mauá";      
                  $descricao = "Vivo + GVT Mauá tem os melhores serviços em TV por assinatura, internet banda larga e telefonia fixa e móvel, confira combos Vivo GVT em Mauá";
                 break;
 
              case "vivo-jundiai":
                  $tituloHeader = "Vivo | GVT Jundiaí - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO | GVT JUNDIAÍ";          
+                 $tituloPagina = "VIVO | GVT JUNDIAÍ";
+                 $cidade = "Jundiaí";          
                  $descricao = "Vivo + GVT Jundiaí tem os melhores serviços em TV por assinatura, internet banda larga e telefonia fixa e móvel, confira combos Vivo GVT em Jundiaí";
                 break;
 
             case "vivo-osasco":
                  $tituloHeader = "Vivo | GVT Osasco - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO | GVT OSASCO";          
+                 $tituloPagina = "VIVO | GVT OSASCO";   
+                 $cidade = "Osasco";       
                  $descricao = "Vivo + GVT Osasco tem os melhores serviços em TV por assinatura, internet banda larga e telefonia fixa e móvel, confira combos Vivo GVT em Osasco";
                 break;
 
             case "vivo-indaiatuba":
                  $tituloHeader = "Vivo | GVT Indaiatuba - Internet Fibra, HD TV e Vivo Fixo<";     
-                 $tituloPagina = "VIVO | GVT INDAIATUBA";          
+                 $tituloPagina = "VIVO | GVT INDAIATUBA"; 
+                 $cidade = "Indaiatuba";         
                  $descricao = "Vivo + GVT Indaiatuba tem os melhores serviços em TV por assinatura, internet banda larga e telefonia fixa e móvel, confira combos Vivo GVT em Indaiatuba";
                 break;
 
              case "vivo-piracicaba":
                  $tituloHeader = "Vivo | GVT Piracicaba - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO | GVT PIRACICABA";          
+                 $tituloPagina = "VIVO | GVT PIRACICABA";
+                 $cidade = "Piracicaba";          
                  $descricao = "Vivo + GVT Piracicaba tem os melhores serviços em TV por assinatura, internet banda larga e telefonia fixa e móvel, confira combos Vivo GVT em Piracicaba";
                 break;
 
              case "vivo-bauru":
                  $tituloHeader = "Vivo Bauru - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO BAURU";          
+                 $tituloPagina = "VIVO BAURU";
+                 $cidade = "Bauru";
                  $descricao = "Vivo Bauru tem os melhores serviços em TV por assinatura, internet fibra, banda larga speedy e telefonia fixa e móvel, confira combos Vivo em Bauru";
                 break;
 
             case "vivo-pindamonhangaba":
                  $tituloHeader = "Vivo Pindamonhangaba - Internet Fibra, HD TV e Vivo Fixo";     
-                 $tituloPagina = "VIVO PINDAMONHANGABA";          
+                 $tituloPagina = "VIVO PINDAMONHANGABA";
+                 $cidade = "Pindamonhangava";            
                  $descricao = "Vivo Pindamonhangaba tem os melhores serviços em TV por assinatura, internet fibra e telefonia fixa e móvel, confira combos Vivo em Pindamonhangaba";
                 break;
 
@@ -724,11 +802,11 @@
                  $descricao = "Obrigado por se Cadastrar! Entraremos em contato em Breve";
                 break;
 
-         /*   case "":
-                 $tituloHeader = "";     
-                 $tituloPagina = "";          
-                 $descricao = "";
-                break;*/
+            case "powercombo.com.br":
+                 $tituloHeader = "Vivo - Assine agora - Internet Fibra, HD TV e Vivo Fixo";     
+                 $tituloPagina = "CONHEÇA OS PLANOS";          
+                 $descricao = "Vivo Assine já - Vivo HDTV, Vivo Internet Fibra, Vivo Speedy, Vivo Fixo ou nosso Vivo combo disponível para Ribeirão Preto e região";
+                break;
 
         }
 

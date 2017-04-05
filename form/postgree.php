@@ -31,7 +31,7 @@ $origem = $_POST['origem'];
 
 $ch = curl_init();
 
-            curl_setopt($ch,CURLOPT_URL,'http://177.103.131.194:8003/contact/'. $telefone1);
+            curl_setopt($ch,CURLOPT_URL,'http://179.104.39.85:8003/contact/'. $telefone1);
 
             curl_setopt($ch,CURLOPT_USERPWD, 'm2center:callback');
 

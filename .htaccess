@@ -1,117 +1,121 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
 
-RewriteRule ^sao-paulo/vivo-taubate/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-hortolandia/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-cotia/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-igarata/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-ibiuna/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-ibitinga/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-guariba/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-guarei/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-guararema/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-guararapes/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-guapiara/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-garca/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-fernandopolis/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-dracena/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-cravinhos/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-cesario-lange/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-cerquilho/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-capela-do-alto/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-capao-bonito/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-buri/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-bom-sucesso-de-itarare/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-boituva/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-biritiba-mirim/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-barretos/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-barra-do-turvo/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-barra-do-chapeu/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-barra-bonita/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-bariri/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-barao-de-antonina/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-avare/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-assis/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-aracoiaba-da-serra/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-apiai/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-angatuba/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-andradina/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-alambari/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-agudos/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-adamantina/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-sertaozinho/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-botucatu/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-ferraz-de-vasconcelos/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-aracatuba/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-marilia/$ paginaCidade.php [L]
-RewriteRule ^sao-paulo/vivo-pindamonhangaba/$ paginaCidade.php [L]
+RewriteRule ^vivo-taubate/$ paginaCidade.php [L]
+RewriteRule ^vivo-hortolandia/$ paginaCidade.php [L]
+RewriteRule ^vivo-cotia/$ paginaCidade.php [L]
+RewriteRule ^vivo-igarata/$ paginaCidade.php [L]
+RewriteRule ^vivo-ibiuna/$ paginaCidade.php [L]
+RewriteRule ^vivo-ibitinga/$ paginaCidade.php [L]
+RewriteRule ^vivo-guariba/$ paginaCidade.php [L]
+RewriteRule ^vivo-guarei/$ paginaCidade.php [L]
+RewriteRule ^vivo-guararema/$ paginaCidade.php [L]
+RewriteRule ^vivo-guararapes/$ paginaCidade.php [L]
+RewriteRule ^vivo-guapiara/$ paginaCidade.php [L]
+RewriteRule ^vivo-garca/$ paginaCidade.php [L]
+RewriteRule ^vivo-fernandopolis/$ paginaCidade.php [L]
+RewriteRule ^vivo-dracena/$ paginaCidade.php [L]
+RewriteRule ^vivo-cravinhos/$ paginaCidade.php [L]
+RewriteRule ^vivo-cesario-lange/$ paginaCidade.php [L]
+RewriteRule ^vivo-cerquilho/$ paginaCidade.php [L]
+RewriteRule ^vivo-capela-do-alto/$ paginaCidade.php [L]
+RewriteRule ^vivo-capao-bonito/$ paginaCidade.php [L]
+RewriteRule ^vivo-buri/$ paginaCidade.php [L]
+RewriteRule ^vivo-bom-sucesso-de-itarare/$ paginaCidade.php [L]
+RewriteRule ^vivo-boituva/$ paginaCidade.php [L]
+RewriteRule ^vivo-biritiba-mirim/$ paginaCidade.php [L]
+RewriteRule ^vivo-barretos/$ paginaCidade.php [L]
+RewriteRule ^vivo-barra-do-turvo/$ paginaCidade.php [L]
+RewriteRule ^vivo-barra-do-chapeu/$ paginaCidade.php [L]
+RewriteRule ^vivo-barra-bonita/$ paginaCidade.php [L]
+RewriteRule ^vivo-bariri/$ paginaCidade.php [L]
+RewriteRule ^vivo-barao-de-antonina/$ paginaCidade.php [L]
+RewriteRule ^vivo-avare/$ paginaCidade.php [L]
+RewriteRule ^vivo-assis/$ paginaCidade.php [L]
+RewriteRule ^vivo-aracoiaba-da-serra/$ paginaCidade.php [L]
+RewriteRule ^vivo-apiai/$ paginaCidade.php [L]
+RewriteRule ^vivo-angatuba/$ paginaCidade.php [L]
+RewriteRule ^vivo-andradina/$ paginaCidade.php [L]
+RewriteRule ^vivo-alambari/$ paginaCidade.php [L]
+RewriteRule ^vivo-agudos/$ paginaCidade.php [L]
+RewriteRule ^vivo-adamantina/$ paginaCidade.php [L]
+RewriteRule ^vivo-sertaozinho/$ paginaCidade.php [L]
+RewriteRule ^vivo-botucatu/$ paginaCidade.php [L]
+RewriteRule ^vivo-ferraz-de-vasconcelos/$ paginaCidade.php [L]
+RewriteRule ^vivo-aracatuba/$ paginaCidade.php [L]
+RewriteRule ^vivo-marilia/$ paginaCidade.php [L]
+RewriteRule ^vivo-pindamonhangaba/$ paginaCidade.php [L]
 
-RewriteRule ^gvt-santa-barbara-do-oeste/vivo-santa-barbara-do-oeste/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-suzano/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-aruja/$ paginaCidadeFibra.php [L]
-RewriteRule ^gvt-sao-jose-do-rio-preto/vivo-sao-jose-do-rio-preto/$ paginaCidadeFibra.php [L]
-RewriteRule ^gvt-praia-grande/vivo-praia-grande/$ paginaCidadeFibra.php [L]
-RewriteRule ^gvt-itaquaquecetuba/vivo-itaquaquecetuba/$ paginaCidadeFibra.php [L]
-RewriteRule ^gvt-ribeirao-pires/vivo-ribeirao-pires/$ paginaCidadeFibra.php [L]
-RewriteRule ^gvt-sao-caetano-do-sul/vivo-sao-caetano-do-sul/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-ribeirao-preto/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-santa-barbara-do-oeste/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-suzano/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-aruja/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-sao-jose-do-rio-preto/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-praia-grande/$ paginaCidadeFibra.php [L]
+RewriteRule ^gvt-itaquaquecetuba/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-ribeirao-pires/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-sao-caetano-do-sul/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-ribeirao-preto/$ paginaCidadeFibra.php [L]
 RewriteRule ^gvt-campinas/vivo-campinas/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-guarulhos/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-araraquara/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-jacarei/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-americana/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-diadema/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-sao-vicente/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-sao-paulo/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-sao-jose-dos-campos/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-itatiba/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-sao-carlos/$ paginaCidadeFibra.php [L]
-RewriteRule ^gvt-presidente-prudente/vivo-presidente-prudente/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-votorantim/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-sao-bernardo-do-campo/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-mogi-das-cruzes/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-santos/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-santo-andre/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-varzea-paulista/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-maua/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-jundiai/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-osasco/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-indaiatuba/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-piracicaba/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-bauru/$ paginaCidadeFibra.php [L]
-RewriteRule ^sao-paulo/vivo-sorocaba/$ paginaCidadeFibra.php [L]
 
 
-RewriteRule ^pacotes-a-la-carte/combate/$ paginasStaticas/combate.php [L]
-RewriteRule ^planos-vivo/vivo-internet/$ paginasStaticas/vivo-internet.php [L]
-RewriteRule ^pacotes-a-la-carte/esportes/$ paginasStaticas/esportes.php [L]
-RewriteRule ^pacotes-a-la-carte/hbo-digital-max-hd/$ paginasStaticas/hbo-digital-max-hd.php [L]
-RewriteRule ^pacotes-a-la-carte/hbo-digital-hd/$ paginasStaticas/hbo-digital-hd.php [L]
-RewriteRule ^pacotes-a-la-carte/internacionais/$ paginasStaticas/internacionais.php [L]
-RewriteRule ^pacotes-a-la-carte/sexy-hot/$ paginasStaticas/sexy-hot.php [L]
-RewriteRule ^pacotes-a-la-carte/telecine-hd/$ paginasStaticas/telecine-hd.php [L]
-RewriteRule ^pacotes-a-la-carte/telecine-light-hd/$ paginasStaticas/telecine-light-hd.php [L]
-RewriteRule ^planos-vivo/internet-fibra/100-mbps/$ paginasStaticas/100-mbps.php [L]
-RewriteRule ^planos-vivo/internet-fibra/200-mbps/$ paginasStaticas/200-mbps.php [L]
-RewriteRule ^planos-vivo/internet-fibra/300-mbps/$ paginasStaticas/300-mbps.php [L]
-RewriteRule ^planos-vivo/internet-fibra/50-mbps/$ paginasStaticas/50-mbps.php [L]
-RewriteRule ^planos-vivo/internet-speedy/10-mbps/$ paginasStaticas/10-mbps.php [L]
-RewriteRule ^planos-vivo/internet-speedy/8-mbps/$ paginasStaticas/8-mbps.php [L]
-RewriteRule ^planos-vivo/internet-speedy/15-mbps/$ paginasStaticas/15-mbps.php [L]
-RewriteRule ^planos-vivo/internet-speedy/2-mbps/$ paginasStaticas/2-mbps.php [L]
-RewriteRule ^planos-vivo/internet-speedy/4-mbps/$ paginasStaticas/4-mbps.php [L]
-RewriteRule ^planos-vivo/telefone-vivo-fixo/vivo-fixo-simples/$ paginasStaticas/vivo-fixo-simples.php [L]
-RewriteRule ^planos-vivo/telefone-vivo-fixo/vivo-ilimitado-fixo-brasil-movel-local/$ paginasStaticas/vivo-ilimitado-fixo-brasil-movel-local.php [L]
-RewriteRule ^planos-vivo/telefone-vivo-fixo/vivo-ilimitado-fixo-local/$ paginasStaticas/vivo-ilimitado-fixo-local.php [L]
-RewriteRule ^planos-vivo/telefone-vivo-fixo/vivo-ilimitado-fixo-movel-local/$ paginasStaticas/vivo-ilimitado-fixo-movel-local.php [L]
-RewriteRule ^planos-vivo/tv-por-assinatura/vivo-tv-full-hd-101-canais/$ paginasStaticas/vivo-tv-full-hd-101-canais.php [L]
-RewriteRule ^planos-vivo/tv-por-assinatura/vivo-tv-super-hd-39-canais/$ paginasStaticas/vivo-tv-super-hd-39-canais.php [L]
-RewriteRule ^planos-vivo/tv-por-assinatura/vivo-tv-super-hd-futebol/$ paginasStaticas/vivo-tv-super-hd-futebol.php [L]
-RewriteRule ^planos-vivo/tv-por-assinatura/vivo-tv-ultimate-hd-85-canais/$ paginasStaticas/vivo-tv-ultimate-hd-85-canais.php [L]
-RewriteRule ^planos-vivo/tv-por-assinatura/vivo-tv-ultimate-hd-futebol/$ paginasStaticas/vivo-tv-ultimate-hd-futebol.php [L]
-RewriteRule ^planos-vivo/tv-por-assinatura/vivo-tv-ultra-hd-61-canais/$ paginasStaticas/vivo-tv-ultra-hd-61-canais.php [L]
-RewriteRule ^planos-vivo/tv-por-assinatura/vivo-tv-ultra-hd-futebol/$ paginasStaticas/vivo-tv-ultra-hd-futebol.php [L]
+RewriteRule ^vivo-guarulhos/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-araraquara/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-jacarei/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-americana/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-diadema/$ paginaCidadeFibra.php [L]
+
+RewriteRule ^vivo-sao-vicente/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-sao-paulo/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-sao-jose-dos-campos/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-itatiba/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-sao-carlos/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-presidente-prudente/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-votorantim/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-sao-bernardo-do-campo/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-mogi-das-cruzes/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-santos/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-santo-andre/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-varzea-paulista/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-maua/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-jundiai/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-osasco/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-indaiatuba/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-piracicaba/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-bauru/$ paginaCidadeFibra.php [L]
+RewriteRule ^vivo-sorocaba/$ paginaCidadeFibra.php [L]
+
+
+RewriteRule ^combate/$ paginasStaticas/combate.php [L]
+RewriteRule ^vivo-internet/$ paginasStaticas/vivo-internet.php [L]
+RewriteRule ^esportes/$ paginasStaticas/esportes.php [L]
+RewriteRule ^hbo-digital-max-hd/$ paginasStaticas/hbo-digital-max-hd.php [L]
+RewriteRule ^hbo-digital-hd/$ paginasStaticas/hbo-digital-hd.php [L]
+RewriteRule ^internacionais/$ paginasStaticas/internacionais.php [L]
+RewriteRule ^sexy-hot/$ paginasStaticas/sexy-hot.php [L]
+RewriteRule ^telecine-hd/$ paginasStaticas/telecine-hd.php [L]
+RewriteRule ^telecine-light-hd/$ paginasStaticas/telecine-light-hd.php [L]
+RewriteRule ^100-mbps/$ paginasStaticas/100-mbps.php [L]
+RewriteRule ^200-mbps/$ paginasStaticas/200-mbps.php [L]
+RewriteRule ^300-mbps/$ paginasStaticas/300-mbps.php [L]
+RewriteRule ^50-mbps/$ paginasStaticas/50-mbps.php [L]
+RewriteRule ^10-mbps/$ paginasStaticas/10-mbps.php [L]
+RewriteRule ^8-mbps/$ paginasStaticas/8-mbps.php [L]
+RewriteRule ^15-mbps/$ paginasStaticas/15-mbps.php [L]
+RewriteRule ^2-mbps/$ paginasStaticas/2-mbps.php [L]
+RewriteRule ^4-mbps/$ paginasStaticas/4-mbps.php [L]
+RewriteRule ^vivo-fixo-simples/$ paginasStaticas/vivo-fixo-simples.php [L]
+RewriteRule ^vivo-ilimitado-fixo-brasil-movel-local/$ paginasStaticas/vivo-ilimitado-fixo-brasil-movel-local.php [L]
+RewriteRule ^vivo-ilimitado-fixo-local/$ paginasStaticas/vivo-ilimitado-fixo-local.php [L]
+RewriteRule ^vivo-ilimitado-fixo-movel-local/$ paginasStaticas/vivo-ilimitado-fixo-movel-local.php [L]
+RewriteRule ^vivo-tv-full-hd-101-canais/$ paginasStaticas/vivo-tv-full-hd-101-canais.php [L]
+RewriteRule ^vivo-tv-super-hd-39-canais/$ paginasStaticas/vivo-tv-super-hd-39-canais.php [L]
+RewriteRule ^vivo-tv-super-hd-futebol/$ paginasStaticas/vivo-tv-super-hd-futebol.php [L]
+RewriteRule ^vivo-tv-ultimate-hd-85-canais/$ paginasStaticas/vivo-tv-ultimate-hd-85-canais.php [L]
+RewriteRule ^vivo-tv-ultimate-hd-futebol/$ paginasStaticas/vivo-tv-ultimate-hd-futebol.php [L]
+RewriteRule ^vivo-tv-ultra-hd-61-canais/$ paginasStaticas/vivo-tv-ultra-hd-61-canais.php [L]
+RewriteRule ^vivo-tv-ultra-hd-futebol/$ paginasStaticas/vivo-tv-ultra-hd-futebol.php [L]
 RewriteRule ^planos-vivo/vivo-hd-tv/$ paginasStaticas/vivo-hd-tv.php [L]
+RewriteRule ^vivo-hd-tv/$ paginasStaticas/vivo-hd-tv.php [L]
 RewriteRule ^vivo/$ paginasStaticas/vivo.php [L]
 RewriteRule ^vivo-combo/$ paginasStaticas/vivo-combo.php [L]
 RewriteRule ^internet/$ paginasStaticas/internet.php [L]
@@ -122,7 +126,73 @@ RewriteRule ^concluido/$ paginasStaticas/concluido.php [L]
 RewriteRule ^obrigado/$ paginasStaticas/obrigado.php [L]
 
 
+redirect 301 /planos-vivo/vivo-fixo/ http://powercombo.com.br/
+redirect 301 /planos-vivo/pacotes-la-carte/ http://powercombo.com.br/
+redirect 301 /pacotes-a-la-carte/ http://powercombo.com.br/
+redirect 301 /planos-vivo/ http://powercombo.com.br/
+redirect 301 /sao-paulo/ http://powercombo.com.br/
+redirect 301 /cobertura/ http://powercombo.com.br/
+redirect 301 /planos-vivo/telefone-vivo-fixo/ http://powercombo.com.br/
+redirect 301 /planos-vivo/internet-fibra/ http://powercombo.com.br/
+redirect 301 /internet-fibra/ http://powercombo.com.br/
+redirect 301 /telefone-vivo-fixo/ http://powercombo.com.br/
+redirect 301 /contato/ http://powercombo.com.br/
+redirect 301 /vivo-vantagens/ http://powercombo.com.br/
+redirect 301 /sao-paulo http://powercombo.com.br/sao-paulo/vivo-sao-paulo/
+redirect 301 /internet-speedy/ http://powercombo.com.br/
+redirect 301 /tv-por-assinatura/ http://powercombo.com.br/
+redirect 301 /gvt-diadema/ http://powercombo.com.br/vivo-diadema/
+redirect 301 /gvt-americana/ http://powercombo.com.br/vivo-americana/
+redirect 301 /gvt-itatiba/ http://powercombo.com.br/vivo-itatiba/
+redirect 301 /gvt-presidente-prudente/ http://powercombo.com.br/vivo-presidente-prudente/
+
+redirect 301 /tag/vivo-hd-tv-ribeirao-preto/ http://powercombo.com.br/vivo-ribeirao-preto/
+redirect 301 /tag/vivo-hd-tv-ribreirao/ http://powercombo.com.br/vivo-ribeirao-preto/
+redirect 301 /tag/vivo-ribeirao/ http://powercombo.com.br/vivo-ribeirao-preto/
+redirect 301 /tag/vivo-ribreirao-internet/ http://powercombo.com.br/vivo-ribeirao-preto/
+redirect 301 /tag/gvt-ribeirao-preto/ http://powercombo.com.br/vivo-ribeirao-preto/
+redirect 301 /tag/vivo-ribeirao-preto/ http://powercombo.com.br/vivo-ribeirao-preto/
+redirect 301 /tag/gvt-ribeirao/ http://powercombo.com.br/vivo-ribeirao-preto/
+redirect 301 /tag/gvt-internet/ http://powercombo.com.br/vivo-internet/
+redirect 301 /gvt-praia-grande/ http://powercombo.com.br/vivo-praia-grande/
+redirect 301 /gvt-santa-barbara-do-oeste/ http://powercombo.com.br/vivo-santa-barbara-do-oeste/
+redirect 301 /gvt-sao-caetano-do-sul/ http://powercombo.com.br/vivo-sao-caetano-do-sul/
+redirect 301 /gvt-sao-jose-do-rio-preto/ http://powercombo.com.br/vivo-sao-jose-do-rio-preto/
+redirect 301 http://www.powercombo.com.br http://powercombo.com.br/
+
+
+RewriteCond %{HTTP_HOST} ^www\.powercombo\.com.br [NC]
+RewriteRule ^(.*)$ http://powercombo.com.br/$1 [L,R=301]
 
 
 </IfModule>
 
+
+<IfModule mod_headers.c>
+    # Serve gzip compressed CSS files if they exist 
+    # and the client accepts gzip.
+    RewriteCond "%{HTTP:Accept-encoding}" "gzip"
+    RewriteCond "%{REQUEST_FILENAME}\.gz" -s
+    RewriteRule "^(.*)\.css" "$1\.css\.gz" [QSA]
+
+    # Serve gzip compressed JS files if they exist 
+    # and the client accepts gzip.
+    RewriteCond "%{HTTP:Accept-encoding}" "gzip"
+    RewriteCond "%{REQUEST_FILENAME}\.gz" -s
+    RewriteRule "^(.*)\.js" "$1\.js\.gz" [QSA]
+
+
+    # Serve correct content types, and prevent mod_deflate double gzip.
+    RewriteRule "\.css\.gz$" "-" [T=text/css,E=no-gzip:1]
+    RewriteRule "\.js\.gz$" "-" [T=text/javascript,E=no-gzip:1]
+
+
+    <FilesMatch "(\.js\.gz|\.css\.gz)$">
+      # Serve correct encoding type.
+      Header append Content-Encoding gzip
+
+      # Force proxies to cache gzipped & 
+      # non-gzipped css/js files separately.
+      Header append Vary Accept-Encoding
+    </FilesMatch>
+</IfModule>

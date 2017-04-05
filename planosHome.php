@@ -23,8 +23,8 @@
                     <h3><span class="tv-line">TV</span></h3>
 
                     <ul class="first">
-                        <li><img src="/powercomboV2/img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
-                        <li><img src="/powercomboV2/img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>26</strong> Canais HD</li>
+                        <li><img src="/img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
+                        <li><img src="/img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>26</strong> Canais HD</li>
                     </ul>
 
                     <ul class="controle">
@@ -38,8 +38,8 @@
                     <h3><span class="tv-line">Internet</span></h3>
 
                     <ul class="first">
-                        <li><img src="/powercomboV2/img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>50</strong> Mega de Velocidade</li>
-                        <li><img src="/powercomboV2/img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
+                        <li><img src="/img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>50</strong> Mega de Velocidade</li>
+                        <li><img src="/img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
                     </ul>                    
                 </div><!--boxCaixaInternet-->
 
@@ -47,7 +47,7 @@
                     <h3><span class="tv-line">Telefones</span></h3>
 
                     <ul class="first">
-                        <li><img src="/powercomboV2/img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>                     
+                        <li><img src="/img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>                     
                     </ul>
                 </div><!--boxCaixaInternet-->
 
@@ -71,8 +71,8 @@
                         <h3><span class="tv-line">TV</span></h3>
 
                         <ul class="first">
-                            <li><img src="/powercomboV2/img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
-                            <li><img src="/powercomboV2/img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>26</strong> Canais HD</li>
+                            <li><img src="/img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
+                            <li><img src="/img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>26</strong> Canais HD</li>
                         </ul>
 
                         <ul class="controle">
@@ -86,8 +86,8 @@
                         <h3><span class="tv-line">Internet</span></h3>
 
                         <ul class="first">
-                            <li><img src="/powercomboV2/img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>100</strong> Mega de Velocidade</li>
-                            <li><img src="/powercomboV2/img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
+                            <li><img src="/img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>100</strong> Mega de Velocidade</li>
+                            <li><img src="/img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
                         </ul>
                     </div><!--boxCaixaInternet-->
 
@@ -95,7 +95,7 @@
                         <h3><span class="tv-line">Telefones</span></h3>
 
                         <ul class="first">
-                            <li><img src="/powercomboV2/img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>
+                            <li><img src="/img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>
                         </ul>
                     </div><!--boxCaixaInternet-->
 
@@ -119,8 +119,8 @@
                         <h3><span class="tv-line">TV</span></h3>
 
                         <ul class="first">
-                            <li><img src="/powercomboV2/img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
-                            <li><img src="/powercomboV2/img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>32</strong> Canais HD</li>
+                            <li><img src="/img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
+                            <li><img src="/img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>32</strong> Canais HD</li>
                         </ul>
 
                         <ul class="controle maisItens">
@@ -135,8 +135,8 @@
                         <h3><span class="tv-line">Internet</span></h3>
 
                         <ul class="first">
-                            <li><img src="/powercomboV2/img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>100</strong> Mega de Velocidade</li>
-                            <li><img src="/powercomboV2/img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
+                            <li><img src="/img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>100</strong> Mega de Velocidade</li>
+                            <li><img src="/img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
                         </ul>
                     </div><!--boxCaixaInternet-->
 
@@ -144,7 +144,7 @@
                         <h3><span class="tv-line">Telefones</span></h3>
 
                         <ul class="first">
-                            <li><img src="/powercomboV2/img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>
+                            <li><img src="/img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>
                         </ul>
                     </div><!--boxCaixaInternet-->
 
@@ -168,8 +168,8 @@
                         <h3><span class="tv-line">TV</span></h3>
 
                         <ul class="first">
-                            <li><img src="/powercomboV2/img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
-                            <li><img src="/powercomboV2/img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>32</strong> Canais HD</li>
+                            <li><img src="/img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
+                            <li><img src="/img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>32</strong> Canais HD</li>
                         </ul>
 
                         <ul class="controle maisItens">
@@ -184,8 +184,8 @@
                         <h3><span class="tv-line">Internet</span></h3>
 
                         <ul class="first">
-                            <li><img src="/powercomboV2/img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>200</strong> Mega de Velocidade</li>
-                            <li><img src="/powercomboV2/img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
+                            <li><img src="/img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>200</strong> Mega de Velocidade</li>
+                            <li><img src="/img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
                         </ul>
                     </div><!--boxCaixaInternet-->
 
@@ -193,7 +193,7 @@
                         <h3><span class="tv-line">Telefones</span></h3>
 
                         <ul class="first">
-                            <li><img src="/powercomboV2/img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>
+                            <li><img src="/img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>
                         </ul>
                     </div><!--boxCaixaInternet-->
 
@@ -211,13 +211,15 @@
     <div>
         <h2 id="modal1Title" class="modal1Title">Consulte a Disponibilidade</h2>
         <div class="planosFormulario">
-            <input type="text" name="nome" placeholder="Nome" class="nome">
-            <input type="text" name="email" placeholder="E-mail" class="email">
-            <input type="text" name="cep" placeholder="CEP" class="cep">
-            <input type="text" name="numeroResidencia" placeholder="Numero da Residência" class="numeroResidencia">
-            <input type="text" name="ddd" placeholder="ddd"  maxlength="2" class="ddd">
-            <input type="text" name="telefone" placeholder="Telefone" maxlength="9" class="telefone">
-            <input type="submit" name="" value="Consultar" class="consultar">
+            <form id="theformPlanosFormulario" novalidate="novalidate" onsubmit="return false">
+                <input type="text" name="nome" placeholder="Nome" class="nome" data-placement="right" required>
+                <input type="text" name="email" placeholder="E-mail" class="email" data-placement="right" required>
+                <input type="number" name="cep" placeholder="CEP" class="cep" data-placement="right" required>
+                <input type="text" name="numeroResidencia" placeholder="Numero da Residência" class="numeroResidencia" data-placement="right" required>
+                <input type="number" name="ddd" placeholder="ddd"  maxlength="2" class="ddd" data-placement="right" onkeypress="return isNumeric(event)" oninput="maxLengthCheck(this)" required>
+                <input type="number" name="telefone" placeholder="Telefone" maxlength="9"  class="telefone" data-placement="right" onkeypress="return isNumeric(event)" oninput="maxLengthCheck(this)" required>
+                <input type="submit" name="" value="Consultar" class="consultar">
+            </form>
         </div>
 
     </div>
