@@ -1,5 +1,6 @@
 // JavaScript source code
  var modal, asseine;
+
 $(document).ready(function () {
     //console.log("aaa")
     //HoldOn.open({
@@ -70,11 +71,17 @@ $(document).on('mousedown', '.assineagora', function () {
 $(window).scroll(function () {
     if ($(this).scrollTop() > 100) {
         $(".btnTelefoneLigamos").fadeIn(400);
+console.log(localStorage.getItem('scrol'))
+        if( localStorage.getItem('scrol') == null){
+            modal.open();         
+            localStorage.setItem('scrol', 'yes');
+        }
     } else {
         $(".btnTelefoneLigamos").fadeOut(400);
     }
 
 });
+
 
 $(document).on("mousedown", ".btnTelefoneLigamos", function () {
     if ($(this).css("right") == "-173px") {
@@ -243,3 +250,4 @@ function isNumeric(evt) {
         if (theEvent.preventDefault) theEvent.preventDefault();
     }
 }
+

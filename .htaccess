@@ -159,6 +159,9 @@ redirect 301 /gvt-santa-barbara-do-oeste/ http://powercombo.com.br/vivo-santa-ba
 redirect 301 /gvt-sao-caetano-do-sul/ http://powercombo.com.br/vivo-sao-caetano-do-sul/
 redirect 301 /gvt-sao-jose-do-rio-preto/ http://powercombo.com.br/vivo-sao-jose-do-rio-preto/
 redirect 301 http://www.powercombo.com.br http://powercombo.com.br/
+redirect 301 http://powercombo.com.br/gvt-ribeirao-pires/ http://powercombo.com.br/vivo-ribeirao-pires/
+
+
 
 
 RewriteCond %{HTTP_HOST} ^www\.powercombo\.com.br [NC]

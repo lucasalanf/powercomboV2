@@ -58,7 +58,7 @@ body {
 .topo {
     float: left;
     width: 100%;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
     .topo .logo {
@@ -199,7 +199,7 @@ body {
     color: #660099;
     text-align: left;
     padding: 47px 0 50px 0;
-
+text-align: center;
     margin-top: 0;
 }
 
@@ -382,6 +382,7 @@ body {
 
     .rodape .redesSociais {
         float: right;
+        display: none;
     }
 
         .rodape .redesSociais ul {
@@ -422,12 +423,13 @@ footer {
     }
 
     footer .logoMini {
-        float: left;
-        display: inline;
-        width: 102px;
-        height: 72px;
-        background: url(/img/logo-vivo-mini.jpg) no-repeat left top;
-        margin-left: 15px;
+           float: left;
+    display: inline;
+    width: 141px;
+    height: 93px;
+    background: url(/img/vivo-logo.png) no-repeat left top;
+    margin-left: 15px;
+    margin-top: -25px;
     }
 
     footer .right {
@@ -509,7 +511,7 @@ footer {
 
 /*MODAL LIGAMOS*/
 .ligamos {
-    margin-bottom: 35px;
+   
 }
 
 .remodal input {
@@ -666,7 +668,7 @@ h1.internas{ float: left; width: 100%; padding: 6px 0;
     font-size: 2.7em;
     font-weight: bold;
     color: #fff;
-    font-family: 'open_sansbold';background-color: #ff9900; padding: 15px 0; text-align: left; margin-top: 0 }
+    font-family: 'open_sansbold';background-color: #ff9900; padding: 15px 0; text-align: center; margin-top: 0 }
 
 
 
@@ -745,7 +747,7 @@ h1.internas{ float: left; width: 100%; padding: 6px 0;
 .obrigado {
     float: left;
     width: 100%;
-    text-align: left;
+    text-align: center;
     font-size: 3em;
     margin-top: 40px;
     text-transform: uppercase;
@@ -759,7 +761,7 @@ h1.internas{ float: left; width: 100%; padding: 6px 0;
     width: 100%;
     font-size: 25px;
     color: #660099;
-    text-align: left;
+    text-align: center;
     letter-spacing: -1px;
     margin: 0 0 12px 0;
     font-family: OfficinaSerif_Bold;
