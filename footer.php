@@ -1,18 +1,8 @@
     <div class="row">
         <div class="rodape">
             <div class="container">
-                <h2>VIVO São Paulo</h2>
-                <p>
-                    <a href="/sao-paulo/" style="font-size:15px">VIVO estado de São Paulo, consulte sua cidade.</a>
-                    <a href="/sao-paulo/" style="font-size:15px">VIVO Oferta 25 Mega</a>
-                </p>
-
-                <div class="redesSociais">
-                    <ul>
-                        <a href="https://www.facebook.com/vivocombo/"><li class="facebook"></li></a>
-                        <a href="https://twitter.com/VivoPowercombo" target="_blank"><li class="twitter"></li></a>                       
-                    </ul>
-                </div>
+                <h2>Ligamos para você</h2>
+                <a href="#ligamosParaVoce">Clique Aqui</a>                
             </div><!--container-->
         </div><!--rodape-->
     </div><!--row-->

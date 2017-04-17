@@ -23,8 +23,8 @@
                     <h3><span class="tv-line">TV</span></h3>
 
                     <ul class="first">
-                        <li><img src="/img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
-                        <li><img src="/img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>26</strong> Canais HD</li>
+                        <li><img src="img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
+                        <li><img src="img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>26</strong> Canais HD</li>
                     </ul>
 
                     <ul class="controle">
@@ -38,8 +38,8 @@
                     <h3><span class="tv-line">Internet</span></h3>
 
                     <ul class="first">
-                        <li><img src="/img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>50</strong> Mega de Velocidade</li>
-                        <li><img src="/img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
+                        <li><img src="img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>50</strong> Mega de Velocidade</li>
+                        <li><img src="img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
                     </ul>                    
                 </div><!--boxCaixaInternet-->
 
@@ -47,7 +47,7 @@
                     <h3><span class="tv-line">Telefones</span></h3>
 
                     <ul class="first">
-                        <li><img src="/img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>                     
+                        <li><img src="img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>                     
                     </ul>
                 </div><!--boxCaixaInternet-->
 
@@ -71,8 +71,8 @@
                         <h3><span class="tv-line">TV</span></h3>
 
                         <ul class="first">
-                            <li><img src="/img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
-                            <li><img src="/img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>26</strong> Canais HD</li>
+                            <li><img src="img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
+                            <li><img src="img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>26</strong> Canais HD</li>
                         </ul>
 
                         <ul class="controle">
@@ -86,8 +86,8 @@
                         <h3><span class="tv-line">Internet</span></h3>
 
                         <ul class="first">
-                            <li><img src="/img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>100</strong> Mega de Velocidade</li>
-                            <li><img src="/img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
+                            <li><img src="img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>100</strong> Mega de Velocidade</li>
+                            <li><img src="img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
                         </ul>
                     </div><!--boxCaixaInternet-->
 
@@ -95,7 +95,7 @@
                         <h3><span class="tv-line">Telefones</span></h3>
 
                         <ul class="first">
-                            <li><img src="/img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>
+                            <li><img src="img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>
                         </ul>
                     </div><!--boxCaixaInternet-->
 
@@ -119,8 +119,8 @@
                         <h3><span class="tv-line">TV</span></h3>
 
                         <ul class="first">
-                            <li><img src="/img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
-                            <li><img src="/img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>32</strong> Canais HD</li>
+                            <li><img src="img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
+                            <li><img src="img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>32</strong> Canais HD</li>
                         </ul>
 
                         <ul class="controle maisItens">
@@ -135,8 +135,8 @@
                         <h3><span class="tv-line">Internet</span></h3>
 
                         <ul class="first">
-                            <li><img src="/img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>100</strong> Mega de Velocidade</li>
-                            <li><img src="/img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
+                            <li><img src="img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>100</strong> Mega de Velocidade</li>
+                            <li><img src="img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
                         </ul>
                     </div><!--boxCaixaInternet-->
 
@@ -144,7 +144,7 @@
                         <h3><span class="tv-line">Telefones</span></h3>
 
                         <ul class="first">
-                            <li><img src="/img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>
+                            <li><img src="img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>
                         </ul>
                     </div><!--boxCaixaInternet-->
 
@@ -168,8 +168,8 @@
                         <h3><span class="tv-line">TV</span></h3>
 
                         <ul class="first">
-                            <li><img src="/img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
-                            <li><img src="/img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>32</strong> Canais HD</li>
+                            <li><img src="img/offers/TV-HD.png" alt="TV-HD" width="24" height="22"><strong>1</strong> Ponto principal em HD</li>
+                            <li><img src="img/offers/HD.png" alt="TV-HD" width="23" height="16"><strong>32</strong> Canais HD</li>
                         </ul>
 
                         <ul class="controle maisItens">
@@ -184,8 +184,8 @@
                         <h3><span class="tv-line">Internet</span></h3>
 
                         <ul class="first">
-                            <li><img src="/img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>200</strong> Mega de Velocidade</li>
-                            <li><img src="/img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
+                            <li><img src="img/offers/internet.png" alt="Internet Fibra" width="27" height="22"><strong>200</strong> Mega de Velocidade</li>
+                            <li><img src="img/offers/modem.png" alt="Modem Grátis" width="27" height="22">Wi-Fi Grátis</li>
                         </ul>
                     </div><!--boxCaixaInternet-->
 
@@ -193,7 +193,7 @@
                         <h3><span class="tv-line">Telefones</span></h3>
 
                         <ul class="first">
-                            <li><img src="/img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>
+                            <li><img src="img/offers/telefone.png" alt="Internet Fibra" width="27" height="22"><span>Ligações para Fixos e Celulares Vivo à Vontade na mesma cidade</span></li>
                         </ul>
                     </div><!--boxCaixaInternet-->
 

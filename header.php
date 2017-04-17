@@ -35,11 +35,11 @@
     
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" onload="if(media!='all')media='all'">
-    <link rel="stylesheet" href="/css/flexslider.css" onload="if(media!='all')media='all'" />
-    <link rel="stylesheet" href="/css/remodal.css" onload="if(media!='all')media='all'">
-    <link rel="stylesheet" href="/css/remodal-default-theme.css" onload="if(media!='all')media='all'">
+    <link rel="stylesheet" href="css/flexslider.css" onload="if(media!='all')media='all'" />
+    <link rel="stylesheet" href="css/remodal.css" onload="if(media!='all')media='all'">
+    <link rel="stylesheet" href="css/remodal-default-theme.css" onload="if(media!='all')media='all'">
     
-    <link rel="stylesheet" href="/css/site.css" onload="if(media!='all')media='all'">
+    <link rel="stylesheet" href="css/site.css" onload="if(media!='all')media='all'">
 
    
 </head>
@@ -51,12 +51,12 @@
                 <div class="logo col-md-4">
                     <?php if($paginaPrincipal) { ?>
                         <h1 title="GVT | Vivo Combo com TV, Internet Banda Larga e Telefonia Fixa, GVT Contato">
-                            <a href="/"><img src="/img/vivo-logo.png" alt="Vivo Logo" /></a>
+                            <a href="/"><img src="img/vivo-logo.png" alt="Vivo Logo" /></a>
                         </h1>
 
                     <?php } else{ ?>
 
-                        <a href="/"><img src="/img/vivo-logo.png" alt="Vivo Logo" /></a>
+                        <a href="/"><img src="img/vivo-logo.png" alt="Vivo Logo" /></a>
 
                     <?php } ?>
                 </div>
@@ -100,11 +100,11 @@
         <div class="flexslider col-lg-12 col-md-12 col-sm-12">
             <ul class="slides">
                 <li>
-                    <img src="/img/vivoPrecoss.jpg" alt="Vivo Internet Fibra Preço" />
+                    <img src="img/vivoPrecoss.jpg" alt="Vivo Internet Fibra Preço" />
                     <!--<p class="flex-caption">Adventurer Cheesecake Brownie</p>-->
                 </li>
                 <li>
-                    <img src="/img/vivo-TV.jpg" alt="Vivo HD TV Preço" />
+                    <img src="img/vivo-TV.jpg" alt="Vivo HD TV Preço" />
                     <!--<p class="flex-caption">Adventurer Lemon</p>-->
                 </li>
             </ul>

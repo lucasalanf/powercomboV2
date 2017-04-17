@@ -121,14 +121,19 @@ body {
 }
 
 .ligamosParavc {
-    margin-top: 14px !important;
+    margin-top: 0 !important;
     color: #FFF;
     font-size: 19px;
 }
 
     .ligamosParavc a {
         color: #FFF;
-        text-decoration: none
+        text-decoration: none;
+            width: 100%;
+    height: 100%;
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
     }
 
 .controlaLarguraMin:hover {
@@ -352,11 +357,12 @@ text-align: center;
 
 
 .rodape {
-    width: 100%;
-    background-color: #ff9900;
-    padding: 25px 0;
+width: 100%;
+    background-color: #660099;
+    padding: 0;
     margin-top: 35px;
     float: left;
+    text-align: center;
 }
 
     .rodape h2 {
@@ -365,14 +371,27 @@ text-align: center;
         font-family: 'open_sansbold';
         margin: 0 !important;
         padding: 0 15px;
+        display: inline-block;
     }
+
+    .rodape div{text-align: center;  
+    display: inline;}
 
     .rodape a {
         color: #fff;
         line-height: 32px;
         margin: 0 2px 0 0;
         text-decoration: none;
+            padding: 10px 35px;
+    background: #f90;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
     }
+
+    .rodape a:hover{ background:#f59300 }
 
     .rodape p {
         margin-bottom: 0;
@@ -797,3 +816,33 @@ h1.internas{ float: left; width: 100%; padding: 6px 0;
 .planosFormulario .tooltip-inner{ width: 180px; }
 
 #ligamosParaVoceValidate .tooltip-inner{ width: 180px; }
+
+.gostou{ float: left; width: 100%; text-align: center; background-color: #47007a;    font-family: OfficinaSerif_Bold!important; font-size: 30px; color: #fff; padding: 10px  0 ;margin-top: 50px; margin-bottom: 30px }
+.vivoTV h3{float: left; width: 100% ; text-align: center; font-family: OfficinaSerif_Bold; color: #47007a;font-size: 26px}
+.vivoTV h4{ font-family: OfficinaSerif_Bold!important; color: #47007a; font-size: 26px}
+.vivoTV h4{margin-top: 30px}
+.vivoTV { float: left; width: 100% }
+.vivoTV .left{  padding-right: 2.5% }
+.vivoTV .right{ padding-left: 2.5% }
+
+.vivoTV p {
+    font: 22px OfficinaSerif_Bold;
+    /* color: #666666; */
+    margin-top: 15px;
+}
+
+.vivoTV section{    /* float: left; */
+    width: 100%;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;flex-direction: row;}
+
+    @media (max-width: 992px){
+
+        .vivoTV section{    /* float: left; */
+   flex-direction: column;
+
+        }
+
+       .vivoTV section img{ max-width: 100%; height: auto; }
+    }

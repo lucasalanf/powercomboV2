@@ -1,3 +1,5 @@
 User-agent: *
 Disallow: /form
 Disallow: /js
+
+Sitemap: http://powercombo.com.br/sitemap.xml
